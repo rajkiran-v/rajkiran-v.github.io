@@ -1,10 +1,10 @@
 # Configs for pwills.com
 
-title: "pwills.com"
-name: "pwills.com"
-email: peter@pwills.com
-url: "http://www.pwills.com"
-repository: "peterewills/peterewills.github.io"
+title: "Raj_Kiran"
+name: "Raj_Kiran"
+email: rajkiran@gmail.com
+url: "https://rajkiran-v.github.io"
+repository: "rajkiran-v/MinM-rkv"
 
 include:
   - _pages
