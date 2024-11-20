@@ -10,44 +10,22 @@ permalink: /about/
 
 <img src="{{ "/assets/images/routeburn.jpg" | absolute_url }}"
 width="50%" hspace="20" align="right">
+I have a Ph.D. degree from the Electrical Engineering department of [Indian Institute of Technology](https://www.iitm.ac.in/) (IIT) Madras, Chennai, with a Best Interdisciplinary Thesis [1] award at the institute level. 
+With over a decade of experience in R&D and two years in Product Development, I specialize in biomedical technologies within the cardiovascular space. 
+Throughout these years, I have collaborated with clinicians and researchers from multiple healthcare centers, to address real-world biomedical challenges related to vascular health assessment. 
+I have expertise in several fronts, including advanced signal processing, industrial and biomedical instrumentation, vascular biomechanics, vascular aging pathways, and state-of-the-art ultrasound imaging technologies. 
+My passion lies in transforming healthcare accessibility by building affordable solutions and advocating for preventive and primordial care. This commitment is underscored by over [30+ patents filed](/portfolio/), demonstrating tangible efforts to drive positive change in the healthcare landscape. I am also passionate about scientific communication, particularly the art of scientific writing. It is demonstrated by my extensive publication record of over [70+ high impact journals and peer-reviewed conference articles](/portfolio/) during a five years span of Ph.D. I now take pleasure in imparting insights and nuances I've gathered to budding writers, offering guidance on effective articulation techniques for their journals, theses and reports.
+Currently, I am on an exploratory journey to harness the potential of AI capabilities for developing preventive and personalized strategies to mitigate the risk of CVDs.
+I thrive on continuous learning and embrace diverse experiences without hesitation. This allows me to excel as an architect, innovator, designer, and mentor. Curiosity led me to regulatory affairs as well, where I managed compliance for a [portable ultrafast-ultrasound system](https://artsens.tech/), completing documentation needed for FDA 510(k) and CDSCO submissions within a year.
 
-I help organizations understand and leverage their quantitative
-information. Call it what you will: data science, machine learning, or
-statistics; the modern technological world lies at the intersection of
-mathematics and computing, and that's where I like to play.
+For more details, check out [my portfolio](/portfolio/), or
+take a look at [my resume][2].
 
-I've worked with [unicorn start-ups][5] and [large publicly traded corporations][6],
-building models, establishing codebases, and providing mathematical expertise to
-developers. My mother tongue is Python, but I also speak Scala and Java. I have
-experience working with the full Python data stack, and also have experience writing
-Spark jobs in Scala and Java.
+Let's connect if you’re looking for:
+Career Opportunities: Join our R&D team to experience everything from core research to prototyping.
+Collaborations: Partner with me on affordable, cutting-edge technologies for cardiovascular and cerebrovascular research, advanced ultrasound applications, and beyond.
+Consultation: Get guidance on pitching or drafting scientific articles, innovative system design, signal processing solutions and hardware troubleshooting. Let's innovate together.
 
-I have a bachelors degree in Physics from Reed College, where I did
-[my thesis][2] on measurement of quantum entanglement in optical systems. After
-spending some time pursuing other interests,[^fnote2] I began working on my
-Ph.D. in Applied Mathematics at University of Colorado. My dissertation covers a
-range of topics in statistics, data analytics, and understanding noisy
-systems. For more details on all that, check out [my portfolio](/portfolio/), or
-take a look at [my resume][4].
+[1]: /assets/docs/thesis.pdf
 
-I live at the [EcoVillage in Ithaca](https://ecovillageithaca.org/). Most recently, I
-worked remotely as a Senior Machine Learning Engineer at [Abnormal
-Security](https://abnormalsecurity.com/).
-
-[^fnote2]: After graduating from Reed, I spent some time living at
-	[Great Vow Zen Monastery][3], where we followed a daily schedule of work and
-	meditation.
-
-[1]: mailto: peter@pwills.com
-
-[2]: /assets/docs/thesis.pdf
-
-[3]: https://www.zendust.org/monastery
-
-[4]: /assets/docs/resume.pdf
-
-[5]: https://www.abnormalsecurity.com
-
-[6]: https://www.stitchfix.com
-
-[7]: https://multithreaded.stitchfix.com/algorithms/
+[2]: /assets/docs/resume.pdf
