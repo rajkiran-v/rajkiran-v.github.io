@@ -24,7 +24,7 @@ plugins:
 # Build settings
 markdown: kramdown
 remote_theme: "mmistakes/minimal-mistakes"
-minimal_mistakes_skin: "dirt"
+minimal_mistakes_skin: "aqua"
 
 # settings for author profile
 author:
@@ -37,16 +37,16 @@ author:
   email  : peter@pwills.com
 
 
-# # comments by disqus
-comments:
-  provider: "disqus"
-  disqus:
-    shortname: "pwills-com"
+# # # comments by disqus
+# comments:
+#   provider: "disqus"
+#   disqus:
+#     shortname: "pwills-com"
 
-analytics:
-  provider: "google"
-  google:
-    tracking_id: "UA-116208936-1"
+# analytics:
+#   provider: "google"
+#   google:
+#     tracking_id: "UA-116208936-1"
 
 
 # pagination for blog page
