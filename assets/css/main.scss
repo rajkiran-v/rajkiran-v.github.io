@@ -14,18 +14,18 @@
 //   font-size: 13px; // Reduce the base font size to 12px
 // }
 
-// // Adjust font size for medium and larger breakpoints
-// @include breakpoint($medium) {
-//   font-size: 13px; // Font size for medium screens
-// }
+// Adjust font size for medium and larger breakpoints
+@include breakpoint($medium) {
+  font-size: 13px; // Font size for medium screens
+}
 
-// @include breakpoint($large) {
-//   font-size: 15px; // Font size for large screens
-// }
+@include breakpoint($large) {
+  font-size: 15px; // Font size for large screens
+}
 
-// @include breakpoint($x-large) {
-//   font-size: 18px; // Font size for extra large screens
-// }
+@include breakpoint($x-large) {
+  font-size: 18px; // Font size for extra large screens
+}
 
 // // Optional: Adjust heading sizes globally
 // h1 {
