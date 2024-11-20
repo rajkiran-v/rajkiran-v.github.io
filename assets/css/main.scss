@@ -1,4 +1,4 @@
----
+// ---
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
 
@@ -9,10 +9,10 @@
 
 // // Below added code is new for custom font size adjustments in main.scss
 
-// // Base font size (for html element)
-// html {
-//   font-size: 13px; // Reduce the base font size to 12px
-// }
+// Base font size (for html element)
+html {
+  font-size: 13px; // Reduce the base font size to 12px
+}
 
 // Adjust font size for medium and larger breakpoints
 @include breakpoint($medium) {
