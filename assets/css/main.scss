@@ -8,42 +8,24 @@
 @import "minimal-mistakes"; // main partials
 
 // // Below added code is new for custom font size adjustments in main.scss
-
-// Base font size (for html element)
-html {
-  font-size: 12px; // Reduce the base font size to 12px
+body {
+  font-size: 13px; // Base font size for small screens
 }
 
-// Adjust font size for medium and larger breakpoints
-@include breakpoint($medium) {
-  font-size: 12px; // Font size for medium screens
+@media screen and (min-width: 48em) { // Medium breakpoint
+  body {
+    font-size: 13px;
+  }
 }
 
-@include breakpoint($large) {
-  font-size: 14px; // Font size for large screens
+@media screen and (min-width: 62em) { // Large breakpoint
+  body {
+    font-size: 14px;
+  }
 }
 
-@include breakpoint($x-large) {
-  font-size: 14px; // Font size for extra large screens
-}
-
-// Optional: Adjust heading sizes globally
-h1 {
-  font-size: 2rem; // Adjust heading 1 font size
-}
-
-h2 {
-  font-size: 1.75rem; // Adjust heading 2 font size
-}
-
-h3 {
-  font-size: 1.5rem; // Adjust heading 3 font size
-}
-
-h4 {
-  font-size: 1.25rem; // Adjust heading 4 font size
-}
-
-h5, h6 {
-  font-size: 1rem; // Adjust heading 5 and 6 font size
+@media screen and (min-width: 75em) { // Extra-large breakpoint
+  body {
+    font-size: 15px;
+  }
 }
