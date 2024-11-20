@@ -24,7 +24,7 @@ plugins:
 # Build settings
 markdown: kramdown
 remote_theme: "mmistakes/minimal-mistakes"
-minimal_mistakes_skin: "aqua"
+minimal_mistakes_skin: "mint"
 
 # settings for author profile
 author:
