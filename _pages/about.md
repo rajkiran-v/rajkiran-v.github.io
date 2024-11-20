@@ -22,11 +22,11 @@ take a look at [my resume][2].
 
 Let's connect if you’re looking for:
 
-Career Opportunities: Join our R&D team to experience everything from core research to prototyping.
+**Career Opportunities**: Join our R&D team to experience everything from core research to prototyping.
 
-Collaborations: Partner with me on affordable, cutting-edge technologies for cardiovascular and cerebrovascular research, advanced ultrasound applications, and beyond.
+**Collaborations**: Partner with me on affordable, cutting-edge technologies for cardiovascular and cerebrovascular research, advanced ultrasound applications, and beyond.
 
-Consultation: Get guidance on pitching or drafting scientific articles, innovative system design, signal processing solutions and hardware troubleshooting. Let's innovate together.
+**Consultation**: Get guidance on pitching or drafting scientific articles, innovative system design, signal processing solutions and hardware troubleshooting. Let's innovate together.
 
 [1]: /assets/docs/thesis.pdf
 
