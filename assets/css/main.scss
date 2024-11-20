@@ -24,7 +24,7 @@ html {
 }
 
 @include breakpoint($x-large) {
-  font-size: 18px; // Font size for extra large screens
+  font-size: 16px; // Font size for extra large screens
 }
 
 // Optional: Adjust heading sizes globally
