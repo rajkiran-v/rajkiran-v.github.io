@@ -9,7 +9,7 @@ permalink: /about/
 # About Me
 
 <img src="{{ "/assets/images/graduation.jpg" | absolute_url }}"
-width="50%" hspace="20" align="left">
+width="50%" style="margin-right: 20px;" align="left">
 
 I have a Ph.D. degree from the [Electrical Engineering department of Indian Institute of Technology](https://www.ee.iitm.ac.in/), Chennai, with a Best Interdisciplinary Thesis [1] award at the institute level.
 
