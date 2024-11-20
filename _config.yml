@@ -28,13 +28,13 @@ minimal_mistakes_skin: "mint"
 
 # settings for author profile
 author:
-  name   : "Peter Wills"
-  avatar : "/assets/images/headshot.jpg"
-  bio    : "I enjoy writing about things I'm interested in - mostly computing, math, physics, and software engineering."
-  location: "Ithaca, NY"
-  github : peterewills
-  linkedin: peterewills
-  email  : peter@pwills.com
+  name   : "Raj Kiran"
+  avatar : "/assets/images/raj_headshot.jpg"
+  bio    : "I love to constantly excel as an architect, innovator, designer, and developer of innovative biomedical solutions."
+  location: "Chennai, India"
+  github : https://github.com/rajkiran-v/rajkiran-v.github.io
+  linkedin: https://www.linkedin.com/in/raj-kiran-vangapandu-25a6b0288/
+  email  : rajkiran.links.com
 
 
 # # # comments by disqus
