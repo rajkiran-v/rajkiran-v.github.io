@@ -8,6 +8,9 @@ permalink: /about/
 
 # About Me
 
+<img src="{{ "/assets/images/graduation.jpg" | absolute_url }}"
+width="50%" hspace="20" align="right">
+
 I have a Ph.D. degree from the [Electrical Engineering department of Indian Institute of Technology](https://www.ee.iitm.ac.in/), Chennai, with a Best Interdisciplinary Thesis [1] award at the institute level.
 
 With over a decade of experience in R&D and two years in Product Development, I specialize in biomedical technologies within the cardiovascular space. I have expertise in several fronts, including advanced signal processing, industrial and biomedical instrumentation, vascular biomechanics, vascular aging pathways, and state-of-the-art ultrasound imaging technologies. 
