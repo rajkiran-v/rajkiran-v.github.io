@@ -12,11 +12,11 @@ html {
 
   /* changed these three to change overall font size */
   @include breakpoint($medium) {
-    font-size: 13px;
+    font-size: 15px;
   }
 
   @include breakpoint($large) {
-    font-size: 15px;
+    font-size: 16px;
 	/* this one seems to do everything */
   }
 
