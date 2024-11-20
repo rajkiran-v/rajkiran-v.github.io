@@ -8,15 +8,15 @@ html {
   /* apply a natural box layout model to all elements */
   box-sizing: border-box;
   background-color: $background-color;
-  font-size: 13px;
+  font-size: 15px;
 
   /* changed these three to change overall font size */
   @include breakpoint($medium) {
-    font-size: 13px;
+    font-size: 15px;
   }
 
   @include breakpoint($large) {
-    font-size: 15px;
+    font-size: 16px;
 	/* this one seems to do everything */
   }
 
@@ -24,8 +24,8 @@ html {
     font-size: 17px;
   }
 
-  -webkit-text-size-adjust: 80%;
-  -ms-text-size-adjust: 80%;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
 }
 
 /* Remove margin */
@@ -138,7 +138,7 @@ input,
 select,
 textarea {
   margin: 0;
-  font-size: 80%;
+  font-size: 100%;
   vertical-align: middle;
 }
 
