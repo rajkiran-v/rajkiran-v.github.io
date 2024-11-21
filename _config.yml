@@ -67,7 +67,7 @@ defaults:
       class: wide
       title: " "
       title_separator: "|"
-  # thesis
+  # Added newly for thesis
   - scope:
       type: thesis
     values:
@@ -96,4 +96,7 @@ defaults:
 # collections
 collections:
   portfolio:
+    output: true
+  # Added newly for thesis
+  thesis:
     output: true
