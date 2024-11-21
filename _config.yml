@@ -74,6 +74,14 @@ defaults:
       toc_label: "Contents"
       read_time: false
       comments: true
+  # thesis
+  - scope:
+      path: ""
+      type: pages
+    values:
+      toc: true
+      toc_label: "Contents"
+      toc_sticky: true
   # portfolio
   - scope:
       path: ""
