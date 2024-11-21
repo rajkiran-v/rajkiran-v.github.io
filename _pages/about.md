@@ -45,10 +45,10 @@ I thrive on continuous learning and embrace diverse experiences that allow me to
 ---
 
 ## **Let’s Collaborate**
-I am open to opportunities for:
+Connect if you’re looking for:
 - **Career Opportunities**: Join our R&D team to engage in everything from core research to prototyping.  
-- **Collaborations**: Partner with me on *cutting-edge technologies* for cardiovascular and cerebrovascular research, *advanced ultrasound applications*, and beyond.  
-- **Consultation**: Seek guidance on *scientific article drafting*, *innovative system design*, *signal processing solutions*, and *hardware troubleshooting*.
+- **Collaborations**: Partner with me on **cutting-edge technologies** for cardiovascular and cerebrovascular research, **advanced ultrasound applications**, and beyond.  
+- **Consultation**: Seek guidance on **scientific article drafting**, **innovative system design**, **signal processing solutions**, and **hardware troubleshooting**.
 
 ---
 
