@@ -1,12 +1,16 @@
 ---
-title: " "
+title: "About me"
 header:
   overlay_image: /assets/images/pg-about.jpg
   caption: "Creativity is intelligence having fun"
 permalink: /about/
+author_profile: true
+toc: true
+toc_label: "Contents"
+toc_sticky: false
+toc_depth: 1
 ---
 
-# About Me
 
 <img src="{{ "/assets/images/graduation.jpg" | absolute_url }}" width="50%" style="margin-right: 20px;" align="left">
 
