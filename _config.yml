@@ -8,7 +8,7 @@ repository: "rajkiran-v.github.io"
 
 include:
   - _pages
-  = _thesis
+  - _thesis
   - assets
   - index.html
 exclude:
