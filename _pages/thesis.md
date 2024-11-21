@@ -53,7 +53,8 @@ Given the limitations of conventional approaches, there is an urgent need for:
   - Expensive devices, making them unsuitable for routine use.
   - Independent devices for each measurand, leading to fragmented assessments.
   - Lack of field-deployable devices for diverse or resource-limited settings.
-  - *[Image of Survey Graphs]*
+    
+<img src="{{ "/assets/images/thesis-img1.jpg" | absolute_url }}" width="100%" style="margin-right: 20px;" align="center">
 
 ### **Limitations of Existing Tools**
 - **Fragmented Approach**:
@@ -97,7 +98,7 @@ Given the limitations of conventional approaches, there is an urgent need for:
   - Develop methods and systems based on A-mode ultrasound that match or exceed existing state-of-the-art in terms of accuracy and robustness.
 - **Addressing Instrumentation Challenges**:
   - Resolve key challenges in the measurement of individual vascular parameters.
-  - *[Image of table]*
+<img src="{{ "/assets/images/thesis-img2.jpg" | absolute_url }}" width="100%" style="margin-right: 20px;" align="center">
 
 ### Research Objectives
 
@@ -110,8 +111,8 @@ Given the limitations of conventional approaches, there is an urgent need for:
 
 This research aims to fill the technological gaps in EVA assessment by creating a simplified, affordable, and comprehensive A-mode ultrasound solution, addressing both clinical and field-based applications.
 
-*Snapshot of the work:*
-- *[Image to be added]*
+*Snapshot of the work contribution:*
+<img src="{{ "/assets/images/thesis-img3.jpg" | absolute_url }}" width="100%" style="margin-right: 20px;" align="center">
 
 ---
 
