@@ -66,6 +66,14 @@ defaults:
       class: wide
       title: " "
       title_separator: "|"
+  # thesis
+  - scope:
+      type: thesis
+    values:
+      toc: true
+      toc_label: "Contents"
+      read_time: false
+      # comments: true
   # posts
   - scope:
       type: posts
