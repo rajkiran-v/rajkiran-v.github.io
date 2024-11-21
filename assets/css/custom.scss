@@ -1,8 +1,0 @@
-/* Custom sticky Table of Contents (TOC) */
-@media screen and (min-width: 768px) { /* You can adjust this breakpoint as necessary */
-  .toc {
-    position: sticky;
-    top: 20px;  /* Adjust based on your header height */
-    z-index: 999;
-  }
-}
