@@ -9,6 +9,7 @@ repository: "rajkiran-v.github.io"
 include:
   - _pages
   - assets
+  - "_assets/css/custom.scss"
   - index.html
 exclude:
   - TODO.md
