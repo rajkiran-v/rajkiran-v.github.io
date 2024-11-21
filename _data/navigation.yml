@@ -4,8 +4,8 @@ main:
     url: /
   - title: "About"
     url: /about/
-  - title: "Blog"
-    url: /portfolio/
+  - title: "Thesis"
+    url: /thesis/
   - title: "Portfolio"
     url: /portfolio/
   - title: "Resume"
