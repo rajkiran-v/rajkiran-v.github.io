@@ -1,11 +1,10 @@
 ---
-title: ""
+title: " "
 header:
   overlay_image: /assets/images/pg-about.jpg
   caption: "Creativity is intelligence having fun"
 permalink: /about/
 author_profile: true
-layout: single
 toc: true
 toc_sticky: true
 toc_label: "Contents"
