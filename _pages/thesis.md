@@ -75,7 +75,7 @@ Given the limitations of conventional approaches, there is an urgent need for:
 
 ---
 
-# Objectives and Scope of Research
+# Scope and Objectives of Research
 
 ## **Context and Motivation**
 - **Importance of Comprehensive Measurement**: Simultaneously assessing key vascular health markers—wall geometry, regional and local arterial stiffness, and CBP—is critical for understanding and monitoring Early Vascular Aging (EVA).
@@ -113,10 +113,12 @@ Given the limitations of conventional approaches, there is an urgent need for:
 
 This research aims to fill the technological gaps in EVA assessment by creating a simplified, affordable, and comprehensive A-mode ultrasound solution, addressing both clinical and field-based applications.
 
-*Snapshot of the work contribution:*
+*Snapshot of the Scientific Contribution:*
+<img src="{{ "/assets/images/thesis-img4.jpg" | absolute_url }}" width="100%" style="margin-right: 20px;" align="center">
 <img src="{{ "/assets/images/thesis-img4.jpg" | absolute_url }}" width="100%" style="margin-right: 20px;" align="center">
 
 ---
 
 
-[**Download Full Thesis PDF**](assets/docs/thesis.pdf)
+[**Download Full Thesis PDF**](assets/docs/thesis.pdf) &
+[**Download Thesis Presentation Deck PDF**](assets/docs/thesis-ppt.pdf)
