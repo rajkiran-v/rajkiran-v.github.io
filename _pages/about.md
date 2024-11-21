@@ -1,5 +1,5 @@
 ---
-title: "About me"
+title: ""
 header:
   overlay_image: /assets/images/pg-about.jpg
   caption: "Creativity is intelligence having fun"
