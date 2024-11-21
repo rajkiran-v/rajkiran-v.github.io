@@ -5,7 +5,7 @@ permalink: /thesis/
 author_profile: true
 toc: true
 toc_label: "Contents"
-toc_sticky: false
+toc_sticky: true
 toc_depth: 1
 ---
 
