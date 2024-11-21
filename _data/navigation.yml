@@ -11,31 +11,70 @@ main:
   - title: "Resume"
     url: /assets/docs/resume.pdf
 
+
 # sidebar for portfolio
 portfolio:
+  - title: "Research Highlights"
+    children:
+      - title: "Vascular Health"
+        url: /portfolio/vascular-health/
+      - title: "Signal Processing"
+        url: /portfolio/signal-processing/
+
   - title: "Projects"
     children:
-#      - title: "Machine Learning on AWS"
-#        url: /portfolio/coming/
-      - title: "Anomaly Detection in Social Networks"
-        url: /portfolio/social-networks/
-      - title: "NetComp: Python Network Comparison"
-        url: /portfolio/netcomp/
-      - title: "Automatic Genre Classification"
-        url: /portfolio/genre_cls/
+      - title: "ARTSENS"
+        url: /portfolio/artsens/
+      - title: "Vascular Score Development"
+        url: /portfolio/vascular-score/
 
-  - title: "Professional"
+  - title: "Publications and Patents"
     children:
-      - title: "DeskAI"
-        url: /portfolio/deskai
-      - title: "Smart Climate Index"
-        url: /portfolio/sclm
+      - title: "Journals"
+        url: /portfolio/journals/
+      - title: "Conferences"
+        url: /portfolio/conferences/
+      - title: "Patents"
+        url: /portfolio/patents/
 
-  - title: "Research"
+  - title: "Collaborations"
     children:
-      - title: "Dynamic Anomaly Detection"
-        url: /portfolio/networks/
-      - title: "Statistics of Entanglement"
-        url: /portfolio/qm_stats/
-      - title: "Magnetic Waves and Noise"
-        url: /portfolio/waves/
+      - title: "Healthcare Technology Innovation Centre"
+        url: /portfolio/htic/
+      - title: "ARTSENS Industry Partnerships"
+        url: /portfolio/artsens-partnerships/
+
+  - title: "Team"
+    children:
+      - title: "Leadership in Multidisciplinary Teams"
+        url: /portfolio/team-leadership/
+
+
+# # sidebar for portfolio
+# portfolio:
+#   - title: "Projects"
+#     children:
+# #      - title: "Machine Learning on AWS"
+# #        url: /portfolio/coming/
+#       - title: "Anomaly Detection in Social Networks"
+#         url: /portfolio/social-networks/
+#       - title: "NetComp: Python Network Comparison"
+#         url: /portfolio/netcomp/
+#       - title: "Automatic Genre Classification"
+#         url: /portfolio/genre_cls/
+
+#   - title: "Professional"
+#     children:
+#       - title: "DeskAI"
+#         url: /portfolio/deskai
+#       - title: "Smart Climate Index"
+#         url: /portfolio/sclm
+
+#   - title: "Research"
+#     children:
+#       - title: "Dynamic Anomaly Detection"
+#         url: /portfolio/networks/
+#       - title: "Statistics of Entanglement"
+#         url: /portfolio/qm_stats/
+#       - title: "Magnetic Waves and Noise"
+#         url: /portfolio/waves/
