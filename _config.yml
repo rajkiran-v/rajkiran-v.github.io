@@ -62,11 +62,25 @@ defaults:
       path: ""
     values:
       layout: single
+      toc: true
+      toc_label: "Contents"
+      toc_sticky: true
       mathjax: true
       author_profile: true
       class: wide
       title: " "
       title_separator: "|"
+
+  # thesis
+  - scope:
+      path: ""
+      type: pages
+    values:
+      toc: true
+      toc_label: "Contents"
+      toc_sticky: true
+      toc_depth: 1
+      
   # posts
   - scope:
       type: posts
@@ -77,15 +91,6 @@ defaults:
       toc_depth: 1
       read_time: false
       comments: true
-  # thesis
-  - scope:
-      path: ""
-      type: pages
-    values:
-      toc: true
-      toc_label: "Contents"
-      toc_sticky: true
-      toc_depth: 1
   # portfolio
   - scope:
       path: ""
