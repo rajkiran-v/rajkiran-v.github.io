@@ -81,7 +81,8 @@ defaults:
     values:
       toc: true
       toc_label: "Contents"
-      toc_sticky: true
+      toc_sticky: false
+      toc_depth: 1
   # portfolio
   - scope:
       path: ""
