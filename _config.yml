@@ -67,14 +67,6 @@ defaults:
       class: wide
       title: " "
       title_separator: "|"
-  # # Added newly for thesis
-  # - scope:
-  #     type: thesis
-  #   values:
-  #     toc: true
-  #     toc_label: "Contents"
-  #     # read_time: false
-  #     # comments: true
   # posts
   - scope:
       type: posts
@@ -97,6 +89,3 @@ defaults:
 collections:
   portfolio:
     output: true
-  # # Added newly for thesis
-  # thesis:
-  #   output: true
