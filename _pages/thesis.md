@@ -115,10 +115,11 @@ This research aims to fill the technological gaps in EVA assessment by creating 
 
 *Snapshot of the Scientific Contribution:*
 <img src="{{ "/assets/images/thesis-img4.jpg" | absolute_url }}" width="100%" style="margin-right: 20px;" align="center">
-<img src="{{ "/assets/images/thesis-img4.jpg" | absolute_url }}" width="100%" style="margin-right: 20px;" align="center">
+<img src="{{ "/assets/images/thesis-img5.jpg" | absolute_url }}" width="100%" style="margin-right: 20px;" align="center">
 
 ---
 
 
-[**Download Full Thesis PDF**](assets/docs/thesis.pdf) &
+[**Download Full Thesis PDF**](assets/docs/thesis.pdf) 
+
 [**Download Thesis Presentation Deck PDF**](assets/docs/thesis-ppt.pdf)
