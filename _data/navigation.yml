@@ -4,14 +4,10 @@ main:
     url: /
   - title: "About"
     url: /about/
-  - title: "Thesis"
-    url: /thesis/
   - title: "Portfolio"
     url: /portfolio/
   - title: "Resume"
     url: /assets/docs/resume.pdf
-  # - title: "Blog"
-  #   url: /blog/
 
 # sidebar for portfolio
 portfolio:
