@@ -1,6 +1,6 @@
 ---
 title: "My Ph.D. Thesis: A Tale Crafted with Passion and Perseverance"
-layout: post
+layout: single
 permalink: /thesis/
 author_profile: true
 toc: true
