@@ -1,7 +1,7 @@
 ---
 title: " "
 header:
-  overlay_image: /assets/images/Page-1.jpg
+  overlay_image: /assets/images/pg-about.jpg
   caption: "Chilika Lake"
 permalink: /about/
 ---
