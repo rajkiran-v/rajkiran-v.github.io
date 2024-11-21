@@ -72,6 +72,8 @@ defaults:
     values:
       toc: true
       toc_label: "Contents"
+      toc_sticky: true
+      toc_depth: 1
       read_time: false
       comments: true
   # thesis
