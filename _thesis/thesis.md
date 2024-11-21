@@ -1,9 +1,12 @@
 ---
-title:  "DS Interview Study Guide Part I: Statistics"
-category: posts
+title:  "My thesis"
+type: thesis
 date: 2019-08-24
 excerpt: "Part I of my guide to data science interviews, focusing on statistics and experimental design."
+toc: true
+toc_label: "Contents"
 ---
+
 
 As I have gone through a couple rounds of interviews for data scientist
 positions, I've been compiling notes on what I consider to be the essential
