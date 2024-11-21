@@ -5,7 +5,7 @@ header:
   caption: "Creativity is intelligence having fun"
 permalink: /about/
 author_profile: true
-layout = single
+layout: single
 toc: true
 toc_sticky: true
 toc_label: "Contents"
