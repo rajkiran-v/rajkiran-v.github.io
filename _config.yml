@@ -9,7 +9,6 @@ repository: "rajkiran-v.github.io"
 include:
   - _pages
   - assets
-  - "_assets/css/custom.scss"
   - index.html
 exclude:
   - TODO.md
@@ -62,9 +61,6 @@ defaults:
       path: ""
     values:
       layout: single
-      toc: true
-      toc_label: "Contents"
-      toc_sticky: true
       mathjax: true
       author_profile: true
       class: wide
