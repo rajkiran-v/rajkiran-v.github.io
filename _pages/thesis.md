@@ -1,11 +1,12 @@
 ---
 title: "Thesis"
-layout: single
+layout: post
 permalink: /thesis/
 author_profile: true
 toc: true
 toc_label: "Contents"
-toc_sticky: true
+toc_sticky: false
+toc_depth: 2
 ---
 
 # My Ph.D. Thesis: A Tale Crafted with Passion and Perseverance
