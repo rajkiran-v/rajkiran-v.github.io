@@ -22,7 +22,7 @@ With over a decade of experience in **R&D** and two years in **Product Developme
 - Industrial and Biomedical Instrumentation 
 - Vascular Biomechanics and Aging Pathways
 - Affordable Medical Technologies  
-- State-of-the-Art Ultrasound Imaging Technologies  
+- State-of-the-Art Ultrasound Imaging  
 
 ---
 
