@@ -4,6 +4,8 @@ layout: single
 permalink: /thesis/
 author_profile: true
 toc: true
+toc_label: "Contents"
+toc_sticky: true
 ---
 
 # Thesis Abstract
