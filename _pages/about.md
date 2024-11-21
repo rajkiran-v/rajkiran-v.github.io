@@ -2,8 +2,7 @@
 title: " "
 header:
   overlay_image: /assets/images/pg-about.jpg
-  caption: "Chilika Lake"
-permalink: /about/
+  permalink: /about/
 ---
 
 # About Me
