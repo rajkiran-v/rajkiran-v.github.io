@@ -1,6 +1,6 @@
 ---
 title: "Paradox of Greatness"
-excerpt: "A reflection on the tension between achieving greatness and the desire to attain it"
+excerpt: "Greatness elevates, but the desire for it diminishes"
 date: 2023-08-08
 categories: 
 - post
