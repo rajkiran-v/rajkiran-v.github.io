@@ -3,7 +3,7 @@ classes: wide
 header:
   overlay_image: /assets/images/tools.jpg
   caption: "Photo credit: [**Ricky Kharawala**](https://unsplash.com)"
-permalink: /portfolio/index.html
+permalink: /contributions/index.html
 date: 2018-01-07
 
 feature_row:
