@@ -52,7 +52,7 @@ portfolio:
         url: /portfolio/team-leadership/
 
 # sidebar for contributions
-portfolio:
+contributions:
   - title: "Publications"
     children:
       - title: "Journals"
