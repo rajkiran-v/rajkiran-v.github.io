@@ -95,9 +95,20 @@ defaults:
       author_profile: false
       excerpt: ""
       sidebar:
-        nav: "portfolio"
+        nav: "portfolio"        
+  # contributions
+  - scope:
+      path: ""
+      type: contributions
+    values:
+      author_profile: false
+      excerpt: ""
+      sidebar:
+        nav: "contributions"
 
 # collections
 collections:
   portfolio:
+    output: true
+  contributions:
     output: true
