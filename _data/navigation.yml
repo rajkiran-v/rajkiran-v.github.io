@@ -6,6 +6,8 @@ main:
     url: /about/
   - title: "Thesis"
     url: /thesis/
+  - title: "Contributions"
+    url: /contributions/
   - title: "Portfolio"
     url: /portfolio/
   - title: "Resume"
@@ -49,6 +51,17 @@ portfolio:
       - title: "Leadership in Multidisciplinary Teams"
         url: /portfolio/team-leadership/
 
+# sidebar for contributions
+portfolio:
+  - title: "Publications"
+    children:
+      - title: "Journals"
+        url: /contributions/Contr-1/
+
+  - title: "Patents"
+    children:
+      - title: "Granted"
+        url: /contributions/Contr-2/
 
 # # sidebar for portfolio
 # portfolio:
