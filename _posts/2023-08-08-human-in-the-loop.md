@@ -1,6 +1,6 @@
 ---
-title: "Human-in-the-Loop ML"
-excerpt: "A powerful paradigm for ML systems"
+title: "Paradox of Greatness"
+excerpt: "A reflection on the tension between achieving greatness and the desire to attain it"
 date: 2023-08-08
 categories: 
 - post
