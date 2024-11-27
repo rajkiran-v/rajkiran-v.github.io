@@ -19,9 +19,9 @@ Currently, he serves as a Principal Scientist in the cardiovascular division of 
 
 His expertise spans several critical areas, including advanced signal processing, biomedical instrumentation, vascular biomechanics, vascular aging pathways, and novel ultrasound imaging technologies. This diverse skill set enables him to excel as an architect, innovator, designer, and developer of groundbreaking biomedical solutions. He is passionate about transforming healthcare accessibility by creating affordable solutions and advocating for preventive and primordial care.
 
-- Take a look at [my resume][2] for detailed professional information.
----
+For detailed professional information [my resume][2].
 
+---
 ## **Current Focus**
 From 2023-2024, I have been leading the product development of [ARTSENS® Plus](https://artsens.tech/), an affordable, image-free ultrasound technology for comprehensive vascular health assessment. This innovative device, a key contribution of my Ph.D. thesis, is the only solution capable of measuring local carotid artery stiffness, aortic pulse wave velocity, central blood pressure, and brachial blood pressure in a single test.
 
