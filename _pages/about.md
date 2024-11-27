@@ -12,53 +12,26 @@ toc_depth: 1
 ---
 
 
-<img src="{{ "/assets/images/graduation.jpg" | absolute_url }}" width="50%" style="margin-right: 20px;" align="left">
-
----
-
-## **Educational Background**
-I hold a Ph.D. degree from the [Electrical Engineering department of Indian Institute of Technology](https://www.ee.iitm.ac.in/), Chennai, where I was honored with the **Best Interdisciplinary [Thesis][1] Award** at the institute level and a CGPA of 9.6/10.
-
----
-
-## **Professional Experience**
-With over a decade of experience in **R&D** and two years in **Product Development**, I specialize in **biomedical technologies** within the cardiovascular space. My areas of expertise include:
-- Advanced Signal Processing  
-- Industrial and Biomedical Instrumentation 
-- Vascular Biomechanics and Aging Pathways
-- Affordable Medical Technologies  
-- State-of-the-Art Ultrasound Imaging  
-
----
-
-## **Passion and Vision**
-I am deeply committed to improving healthcare accessibility through **affordable solutions** and **advocating for preventive and primordial care**. I also have a passion for **scientific communication**, particularly the **art of scientific writing**, which has been a key part of my academic and professional journey. My contributions include:  
-- **30+ patents filed**, showcasing tangible efforts to drive innovation.  
-- **70+ publications in high-impact journals and peer-reviewed conference articles** during my Ph.D.  
-
+## **Short Biography**
+Dr. Raj Kiran V received his Ph.D. from the Electrical Engineering Department of the[Indian Institute of Technology (IIT) Madras](https://www.ee.iitm.ac.in/), where he was honored with the Best Interdisciplinary Thesis award at the institute level.
+With over a decade of experience in R&D and two years in Product Development, he specializes in biomedical technologies within the cardiovascular domain. Over the years, he has collaborated with clinicians and researchers from multiple healthcare centers to address real-world biomedical challenges in vascular health assessment. His scientific contributions are evident in the scope and quality of his work, which includes over 70 peer-reviewed publications and seven issued patents (with more than 30 filed).
+Currently, he serves as a Principal Scientist in the cardiovascular division of the Healthcare Technology Innovation Centre [(HTIC – IIT Madras)](https://www.hticiitm.org/). His expertise spans several critical areas, including advanced signal processing, biomedical instrumentation, vascular biomechanics, vascular aging pathways, and novel ultrasound imaging technologies. This diverse skill set enables him to excel as an architect, innovator, designer, and developer of groundbreaking biomedical solutions. He is passionate about transforming healthcare accessibility by creating affordable solutions and advocating for preventive and primordial care.
+- Take a look at [my resume][2] for detailed professional information.
 ---
 
 ## **Current Focus**
-I am currently exploring **AI-driven preventive and personalized strategies** to mitigate cardiovascular disease risks. My work extends to **regulatory affairs**, where I successfully managed compliance for a [portable ultrafast-ultrasound system](https://artsens.tech/), completing **FDA 510(k)** and **CDSCO submissions** within a year.
+From 2023-2024, I have been leading the product development of [ARTSENS® Plus](https://artsens.tech/), an affordable, image-free ultrasound technology for comprehensive vascular health assessment. This innovative device, a key contribution of my Ph.D. thesis, is the only solution capable of measuring local carotid artery stiffness, aortic pulse wave velocity, central blood pressure, and brachial blood pressure in a single test.
 
----
+In addition to product development, I have been driving translational research within the **Cardiovascular Science and Technology** cluster of our R&D center. My work also extends to **regulatory affairs**, where I successfully managed compliance of ARTSENS® Plus, completing the needed documentation for **FDA 510(k)** and **CDSCO submissions** within a year.
 
-## **Personal Philosophy**
-I thrive on continuous learning and embrace diverse experiences that allow me to excel as an **architect, innovator, designer, and mentor**. I am driven by curiosity to tackle real-world problems with creative, practical solutions. I am a strong believer of the notion that **indigenous problems require indigenous solutions**
+Currently, I am on an exploratory journey to harness the potential of **AI-driven preventive and personalized strategies** to mitigate the risk of CVDs.
 
----
-
-## **Let’s Collaborate**
-Connect if you’re looking for:
-- **Career Opportunities**: Join our R&D team to engage in everything from core research to prototyping.  
-- **Collaborations**: Partner with me on **cutting-edge technologies** for cardiovascular and cerebrovascular research, **advanced ultrasound applications**, and beyond.  
-- **Consultation**: Seek guidance on **scientific article drafting**, **innovative system design**, **signal processing solutions**, and **hardware troubleshooting**.
-
----
+## **Vision and Passion**
 
 ## **Explore More**
 - Visit [my portfolio](/portfolio/) for a deeper dive into my projects and contributions.  
-- Take a look at [my resume][2] for detailed professional information.
+
+
 
 [1]: /assets/docs/thesis.pdf  
 [2]: /assets/docs/resume.pdf
