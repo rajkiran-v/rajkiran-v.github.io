@@ -14,8 +14,11 @@ toc_depth: 1
 
 ## **Short Biography**
 Dr. Raj Kiran V received his Ph.D. from the Electrical Engineering Department of the[Indian Institute of Technology (IIT) Madras](https://www.ee.iitm.ac.in/), where he was honored with the Best Interdisciplinary Thesis award at the institute level.
-With over a decade of experience in R&D and two years in Product Development, he specializes in biomedical technologies within the cardiovascular domain. Over the years, he has collaborated with clinicians and researchers from multiple healthcare centers to address real-world biomedical challenges in vascular health assessment. His scientific contributions are evident in the scope and quality of his work, which includes over 70 peer-reviewed publications and seven issued patents (with more than 30 filed).
-Currently, he serves as a Principal Scientist in the cardiovascular division of the Healthcare Technology Innovation Centre [(HTIC – IIT Madras)](https://www.hticiitm.org/). His expertise spans several critical areas, including advanced signal processing, biomedical instrumentation, vascular biomechanics, vascular aging pathways, and novel ultrasound imaging technologies. This diverse skill set enables him to excel as an architect, innovator, designer, and developer of groundbreaking biomedical solutions. He is passionate about transforming healthcare accessibility by creating affordable solutions and advocating for preventive and primordial care.
+
+Currently, he serves as a Principal Scientist in the cardiovascular division of the Healthcare Technology Innovation Centre [(HTIC – IIT Madras)](https://www.hticiitm.org/). With over a decade of experience in R&D and two years in Product Development, he specializes in biomedical technologies within the cardiovascular domain. Over the years, he has collaborated with clinicians and researchers from multiple healthcare centers to address real-world biomedical challenges in vascular health assessment. His scientific contributions are evident in the scope and quality of his work, which includes over 70 peer-reviewed publications and seven issued patents (with more than 30 filed).
+
+His expertise spans several critical areas, including advanced signal processing, biomedical instrumentation, vascular biomechanics, vascular aging pathways, and novel ultrasound imaging technologies. This diverse skill set enables him to excel as an architect, innovator, designer, and developer of groundbreaking biomedical solutions. He is passionate about transforming healthcare accessibility by creating affordable solutions and advocating for preventive and primordial care.
+
 - Take a look at [my resume][2] for detailed professional information.
 ---
 
