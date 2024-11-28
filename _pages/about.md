@@ -11,8 +11,6 @@ toc_label: "Contents"
 toc_depth: 1
 ---
 
-# Dr. Raj Kiran V: Biography and Vision
-
 ## Short Biography
 
 Dr. Raj Kiran V received his Ph.D. from the Electrical Engineering Department of the [Indian Institute of Technology (IIT) Madras](https://www.ee.iitm.ac.in/), where he was honored with the **Best Interdisciplinary Thesis award** at the institute level.
