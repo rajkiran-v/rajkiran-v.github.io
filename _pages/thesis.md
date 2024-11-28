@@ -14,6 +14,25 @@ toc_depth: 1
 
 ---
 
+# Short Abstract
+
+This work addresses the need for a **currently non-existent device** that facilitates **multifaceted assessment of vascular health markers** for identifying the cumulative burden of risk factors early on and the extent of **vascular aging** for effective prediction of **future cardiovascular events**. 
+
+Consequently, **A-mode ultrasound methods** and a device for assessing the **structural and functional properties of an artery**—including **Lumen Diameter**, **Intima-Media Thickness (IMT)**, **Local and Regional Pulse Wave Velocity (PWV)**, and **central Blood Pressure (BP)**—were developed and validated. 
+
+This device has demonstrated several **clear advantages**, including:  
+
+1. **Facilitating an affordable and compact design**, making it accessible for wider use.  
+2. **Minimizing processing overhead**, enhancing operational efficiency.  
+3. **Enabling online measurement and visual feedback**, improving usability and real-time diagnostics. 
+4. **Reducing dependence on the operator**, ensuring more consistent results.  
+5. **Allowing multiple markers to be examined on a single device**, streamlining vascular health assessment.
+
+*Snapshot of the Scientific Contribution:*
+
+<img src="{{ "/assets/images/thesis-img5.jpg" | absolute_url }}" width="100%" style="margin-right: 20px;" align="center">
+---
+
 # Motivation
 
 ## **Introduction: The Burden of Cardiovascular Diseases (CVDs)**
@@ -113,9 +132,9 @@ Given the limitations of conventional approaches, there is an urgent need for:
 
 This research aims to fill the technological gaps in EVA assessment by creating a simplified, affordable, and comprehensive A-mode ultrasound solution, addressing both clinical and field-based applications.
 
-*Snapshot of the Scientific Contribution:*
+*Illustration of research work contributions:*
 <img src="{{ "/assets/images/thesis-img4.jpg" | absolute_url }}" width="100%" style="margin-right: 20px;" align="center">
-<img src="{{ "/assets/images/thesis-img5.jpg" | absolute_url }}" width="100%" style="margin-right: 20px;" align="center">
+
 
 ---
 
