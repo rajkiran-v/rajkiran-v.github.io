@@ -124,15 +124,16 @@ Given the limitations of conventional approaches, there is an urgent need for:
 ## Research Objectives
 
 - **Arterial Wall Tracking**: Develop a reliable method to identify and track arterial wall locations from A-mode ultrasound scans.
-- **Structural Property Assessment**: Automate the measurement of key arterial metrics—lumen diameter, IMT, and their variations throughout the cardiac cycle.
+- **Geometeric Mearsurements**: Automate the measurement of key arterial metrics—lumen diameter, IMT, and their variations throughout the cardiac cycle.
 - **High-Frame-Rate System Design**: Create a high-frame-rate (~1 kHz) multimodal system for dual-channel A-mode ultrasound and pressure signal acquisition, including compact sensor probes.
 - **Local PWV Measurement**: Implement real-time methods to measure local pulse wave velocity (PWV) and its intra-cardiac variations using the developed system.
-- **Regional Stiffness Evaluation**: Extend the system to assess regional arterial stiffness (cfPWV) in addition to local stiffness.
-- **CBP Estimation**: Develop a calibration-free approach to evaluate central blood pressure (CBP) using structural properties and local PWV, and validate the system’s ability to track physiological fluctuations.
+- **Regional Stiffness Measurement**: Extend the system to assess regional arterial stiffness (cfPWV) in addition to local stiffness.
+- **Central Blood Pressure Estimation**: Develop a calibration-free approach to evaluate central blood pressure (CBP) using structural properties and local PWV, and validate the system’s ability to track physiological fluctuations.
 
 This research aims to fill the technological gaps in EVA assessment by creating a simplified, affordable, and comprehensive A-mode ultrasound solution, addressing both clinical and field-based applications.
 
-*Illustration of research work contributions:*
+*Graphical Abstract of Research:*
+
 <img src="{{ "/assets/images/thesis-img4.jpg" | absolute_url }}" width="100%" style="margin-right: 20px;" align="center">
 
 
