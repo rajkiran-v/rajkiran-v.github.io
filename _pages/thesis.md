@@ -12,6 +12,8 @@ toc_depth: 1
 # Title
 **A-mode ultrasound methods for measurement of arterial structure and functional properties: A window to early vascular ageing**
 
+[**Download Full Thesis PDF**](assets/docs/thesis.pdf) 
+
 ---
 
 # Short Abstract
@@ -31,6 +33,12 @@ This device has demonstrated several **clear advantages**, including:
 *Snapshot of the Scientific Contribution:*
 
 <img src="{{ "/assets/images/thesis-img5.jpg" | absolute_url }}" width="100%" style="margin-right: 20px;" align="center">
+
+
+*Graphical Abstract of Research Work:*
+
+<img src="{{ "/assets/images/thesis-img4.jpg" | absolute_url }}" width="100%" style="margin-right: 20px;" align="center">
+
 ---
 
 # Motivation
@@ -132,14 +140,7 @@ Given the limitations of conventional approaches, there is an urgent need for:
 
 This research aims to fill the technological gaps in EVA assessment by creating a simplified, affordable, and comprehensive A-mode ultrasound solution, addressing both clinical and field-based applications.
 
-*Graphical Abstract of Research:*
-
-<img src="{{ "/assets/images/thesis-img4.jpg" | absolute_url }}" width="100%" style="margin-right: 20px;" align="center">
-
+[**Download Thesis Presentation Deck PDF**](assets/docs/thesis-ppt.pdf)
 
 ---
 
-
-[**Download Full Thesis PDF**](assets/docs/thesis.pdf) 
-
-[**Download Thesis Presentation Deck PDF**](assets/docs/thesis-ppt.pdf)
