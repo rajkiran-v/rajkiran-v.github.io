@@ -37,7 +37,7 @@ Beyond my technology translation role within the team, I have embraced regulator
 
 While **translational research** is my core passion, these experiences have been pivotal in expanding my understanding of the **nuances of product development, regulatory frameworks, and market dynamics**—essential steps in transforming innovative ideas into impactful solutions.
 
-- Visit [my portfolio](/portfolio/) for a deeper dive into my projects and contributions.  
+Visit [my portfolio](/portfolio/) for a deeper dive into my projects and contributions.  
 
 
 
