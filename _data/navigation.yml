@@ -57,6 +57,8 @@ contributions:
     children:
       - title: "Journals"
         url: /contributions/Contr-1/
+      - title: "Conferences"
+        url: /contributions/Contr-3/
 
   - title: "Patents"
     children:
