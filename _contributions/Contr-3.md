@@ -2,52 +2,44 @@
 header:
   overlay_image: /assets/images/code.jpg
   caption: "Photo credit: [**Marcus Spiske**](https://unsplash.com)"
-permalink: /contributions/Contr-1/
+permalink: /contributions/Contr-3/
 category: contributions
 date: 2024-11-22
 toc: true
 toc_label: "Contents"
 ---
 
-# Journal Publications
+# Peer Reviewed Conference Proceedings
+
+2023
+
+(1) **Raj, K. V.**, Girish, V. V., Nabeel, P. M., Sivaprakasam, M., & Joseph, J. (2023). Wearable Ambulatory Accelerometer System for Estimating Arterial Stiffness: A Pilot Study. 2023 45th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC), 1–4. https://doi.org/10.1109/EMBC40787.2023.10340560.
+
+(2) **Raj, K. V.**, Girish, V. V., Nabeel, P., Sivaprakasam, M., & Joseph, J. (2023). Acceleration Plethysmography for Ambulatory Vascular Monitoring: A Pilot Study. 2023 IEEE International Symposium on Medical Measurements and Applications (MeMeA), 1–6. https://doi.org/10.1109/MeMeA57477.2023.10171877.
+
+(3) **Raj, K. V.**, George, N. R., Manoj, R., Nabeel, P. M., Sivaprakasam, M., & Joseph, J. (2023). Ultrasound for Venous Local Pulse Wave Velocity: Comparison of Pulse Transit Time Methods. 2023 45th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC), 1–4. https://doi.org/10.1109/EMBC40787.2023.10340269.
+
+(4) **Raj, K. V.**, Sudarsan, N., Manoj, R., Nabeel, P. M., Chandran, D. S., & Joseph, J. (2023). Normalization of Flow-mediated Dilation to Brachial Artery Material Property: A Feasibility Study. 2023 45th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC), 1–4. https://doi.org/10.1109/EMBC40787.2023.10341153.
+
+(5) **Raj, K. V.**, Sudarsan, N., Manoj, R., Nabeel, P. M., Chandran, D. S., & Joseph, J. (2023). Assessment of Endothelial Reactivity by Measurement of Vascular Material Response to Shear Stress: A Feasibility Study. 2023 45th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC), 1–4. https://doi.org/10.1109/EMBC40787.2023.10340551.
+
+(6) **Raj, K. V.**, Manoj, R., Ishwarya, S., Nabeel, P. M., Sivaprakasam, M., & Joseph, J. (2023). Arterial Wave Separation Analysis and Reflection Wave Transit Time Estimation using a Double Rayleigh Flow Rate Model. 2023 45th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC), 1–4. https://doi.org/10.1109/EMBC40787.2023.10340514.
+
+(7) **Raj, K. V.**, Ishwarya, S., Shankar, M., Nabeel, P. M., & Joseph, J. (2023). A Photoplethysmograph-Based Device for Carotid Femoral Pulse Wave Velocity Measurement: Inter and Intraoperator Study. 2023 IEEE International Symposium on Medical Measurements and Applications (MeMeA), 1–6. https://doi.org/10.1109/MeMeA57477.2023.10171895.
+
+(8) **Raj, K. V.**, Manoj, R., Ponkalaivani, S., Nabeel, P. M., & Joseph, J. (2023). Effect of Fiduciary Point Choice on Pulse Wave Velocity-based Cuffless Pulse Pressure Estimation: Ex-vivo Study. 2023 IEEE International Symposium on Medical Measurements and Applications (MeMeA), 1–6. https://doi.org/10.1109/MeMeA57477.2023.10171935.
+
+(9) **Raj, K. V.**, Sudarsan, N., Manoj, R., Nabeel, P. M., Chandran, D. S., & Joseph, J. (2023). Assessment of Endothelial Reactivity using Brachial Pulse Wave Velocity Response to Shear. 2023 IEEE International Symposium on Medical Measurements and Applications (MeMeA), 1–6. https://doi.org/10.1109/MeMeA57477.2023.10171899.
+
+(10) **Raj, K. V.**, George, N. R., Nabeel, P. M., Sivaprakasam, M., & Joseph, J. (2023). Assessment of Local Venous Pulse Wave Velocity: A Pilot Feasibility Study. 2023 IEEE International Symposium on Medical Measurements and Applications (MeMeA), 1–6. https://doi.org/10.1109/MeMeA57477.2023.10171902.
+
+(11) **Raj, K. V.**, George, N. R., Nabeel, P. M., Sivaprakasam, M., & Joseph, J. (2023). A Pilot Observational Cohort Study to Investigate the Effect of Valsalva Maneuver on Internal Jugular Venous Diameter. 2023 45th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC), 1–4. https://doi.org/10.1109/EMBC40787.2023.10340601.
+
+(12) **Raj, K. V.**, Ishwarya, S., Nabeel, P. M., & Joseph, J. (2023). Plethysmograph-Based Self-Assessment Device for Carotid-Femoral Pulse Wave Velocity Measurement: A Pilot Usability Study. 2023 45th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC), 1–4. https://doi.org/10.1109/EMBC40787.2023.10340457.
+
+(13) **Raj, K. V.**, Manoj, R., Ponkalaivani, S., Nabeel, P. M., Sivaprakasam, M., & Joseph, J. (2023). Measurement of Local Pulse Wave Velocity: Agreement Among Various Methodologies. 2023 IEEE International Symposium on Medical Measurements and Applications (MeMeA), 1–6. https://doi.org/10.1109/MeMeA57477.2023.10171907.
+
+(14) **Raj, K. V.**, Sudarsan, N., Nabeel, P. M., & Joseph, J. (2023). Repeatability and Reproducibility of Flow Mediated Dilation Measured using ARTSENS. 2023 IEEE International Symposium on Medical Measurements and Applications (MeMeA), 1–6. https://doi.org/10.1109/MeMeA57477.2023.10171953.
 
 ---
 
-## 2024
-(1) van der Sluijs, K. M., Bakker, E., Kerstens, T., Stens, N., de Koning, I., Thannhauser, J., Malik, A., Reesink, K., Nabeel, P. M., **Raj, K. V.**, Joseph, J., Eijsvogels, T. M. H., & Thijssen, D. H. J. (2024). **Association of objectively measured sedentary behavior with arterial stiffness: Findings from the Nijmegen Exercise Study.** *Scandinavian Journal of Medicine & Science in Sports, 34*(e14757). [https://doi.org/10.1111/sms.1](https://doi.org/10.1111/sms.1)
-
-(2) Rahul, M., Nabeel, P. M., **Raj, K. V.**, Sivaprakasam, M., & Joseph, J. (2024). **Quantification of reflected wave magnitude and transit time using a multi-Rayleigh flow waveform model: A simplified approach to arterial wave separation analysis.** *Biomedical Signal Processing and Control, 93,* 106129. [https://doi.org/10.1016/j.bspc.2024.106129](https://doi.org/10.1016/j.bspc.2024.106129)
-
----
-
-## 2023
-(3) Srivastava, P., Nabeel, P. M., **Raj, K. V.**, Soneja, M., Chandran, D. S., Joseph, J., Wig, N., Jaryal, A. K., Thijssen, D., & Deepak, K. K. (2023). **Baroreflex sensitivity is impaired in survivors of mild COVID-19 at 3–6 months of clinical recovery; association with carotid artery stiffness.** *Physiological Reports, 11,* e15845. [https://doi.org/10.14814/phy2.15845](https://doi.org/10.14814/phy2.15845)
-
-(4) van der Sluijs, K. M., Thannhauser, J., Visser, I. M., Nabeel, P. M., **Raj, K. V.**, et al. (2023). **Central and local arterial stiffness in White Europeans compared to age-, sex-, and BMI-matched South Asians.** *PLOS ONE, 18*(8), e0290118. [https://doi.org/10.1371/journal.pone.0290118](https://doi.org/10.1371/journal.pone.0290118)
-
----
-
-## 2022
-(5) **Raj, K. V.**, Nabeel, P. M., Sivaprakasam, M., & Joseph, J. (2022). **Time-warping for robust automated arterial wall-recognition and tracking from single-scan-line ultrasound signals.** *Ultrasonics, 126,* 106828. [https://doi.org/10.1016/j.ultras.2022.106828](https://doi.org/10.1016/j.ultras.2022.106828)
-
-(6) **Raj, K. V.**, Nabeel, P. M., Chandran, D., Sivaprakasam, M., & Joseph, J. (2022). **High-frame-rate A-mode ultrasound for calibration-free cuffless carotid pressure: feasibility study using lower body negative pressure intervention.** *Blood Pressure, 31*(1), 1–11. [https://doi.org/10.1080/08037051.2021.2022453](https://doi.org/10.1080/08037051.2021.2022453)
-
-(7) **Raj, K. V.**, Nabeel, P. M., & Joseph, J. (2022). **Image-Free Fast Ultrasound for Measurement of Local Pulse Wave Velocity: In Vitro Validation and In Vivo Feasibility.** *IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control, 69*(7), 2248–2256. [https://doi.org/10.1109/TUFFC.2022.3172265](https://doi.org/10.1109/TUFFC.2022.3172265)
-
-(8) Nabeel, P. M., **Raj, K. V.**, & Joseph, J. (2022). **Image-free ultrasound for local and regional vascular stiffness assessment: The ARTSENS Plus.** *Journal of Hypertension, 40*(8), 1537–1544. [https://doi.org/10.1097/HJH.0000000000003181](https://doi.org/10.1097/HJH.0000000000003181)
-
-(9) Manoj, R., **Raj, K. V.**, Nabeel, P. M., Sivaprakasam, M., & Joseph, J. (2022). **Arterial pressure pulse wave separation analysis using a multi-Gaussian decomposition model.** *Physiological Measurement, 43*(5), 1–12. [https://doi.org/10.1088/1361-6579/ac6e56](https://doi.org/10.1088/1361-6579/ac6e56)
-
----
-
-## 2020
-(10) **Raj, K. V.**, Joseph, J., Nabeel, P. M., & Sivaprakasam, M. (2020). **Automated measurement of compression-decompression in arterial diameter and wall thickness by image-free ultrasound.** *Computer Methods and Programs in Biomedicine, 194,* 1–12. [https://doi.org/10.1016/j.cmpb.2020.105557](https://doi.org/10.1016/j.cmpb.2020.105557)
-
-(11) Joseph, J., **Raj, K. V.**, Nabeel, P. M., Shah, M. I., Bhaskar, A., Ganesh, C., & Seshadri, S. (2020). **ARTSENS® Pen — portable easy-to-use device for carotid stiffness measurement: technology validation and clinical-utility assessment.** *Biomedical Physics & Engineering Express, 6*(2), 1–12.
-
-(12) Nabeel, P. M., **Raj, K. V.**, Joseph, J., Abhidev, V. V., & Sivaprakasam, M. (2020). **Local pulse wave velocity: theory, methods, advancements, and clinical applications.** *IEEE Reviews in Biomedical Engineering, 13,* 74–112. [https://doi.org/10.1109/RBME.2019.2931587](https://doi.org/10.1109/RBME.2019.2931587)
-
----
-
-## 2017
-(13) Saha, A., Das, S., Suresh, M., **Raj, K. V.**, & Dey, N. (2017). **FPGA based self-vibration compensated two-dimensional non-contact vibration measurement using 2D position sensitive detector with remote monitoring.** *Measurement, 111,* 271–278. [https://doi.org/10.1016/j.measurement.2017.07.038](https://doi.org/10.1016/j.measurement.2017.07.038)
