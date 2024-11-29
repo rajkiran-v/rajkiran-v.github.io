@@ -21,9 +21,9 @@ toc_label: "Contents"
 ---
 
 ## 2023
-3. Srivastava, P., Nabeel, P. M., **Raj, K. V.**, Soneja, M., Chandran, D. S., Joseph, J., Wig, N., Jaryal, A. K., Thijssen, D., & Deepak, K. K. (2023). **Baroreflex sensitivity is impaired in survivors of mild COVID-19 at 3–6 months of clinical recovery; association with carotid artery stiffness.** *Physiological Reports, 11,* e15845. [https://doi.org/10.14814/phy2.15845](https://doi.org/10.14814/phy2.15845)
+(3) Srivastava, P., Nabeel, P. M., **Raj, K. V.**, Soneja, M., Chandran, D. S., Joseph, J., Wig, N., Jaryal, A. K., Thijssen, D., & Deepak, K. K. (2023). **Baroreflex sensitivity is impaired in survivors of mild COVID-19 at 3–6 months of clinical recovery; association with carotid artery stiffness.** *Physiological Reports, 11,* e15845. [https://doi.org/10.14814/phy2.15845](https://doi.org/10.14814/phy2.15845)
 
-4. van der Sluijs, K. M., Thannhauser, J., Visser, I. M., Nabeel, P. M., **Raj, K. V.**, et al. (2023). **Central and local arterial stiffness in White Europeans compared to age-, sex-, and BMI-matched South Asians.** *PLOS ONE, 18*(8), e0290118. [https://doi.org/10.1371/journal.pone.0290118](https://doi.org/10.1371/journal.pone.0290118)
+(4) van der Sluijs, K. M., Thannhauser, J., Visser, I. M., Nabeel, P. M., **Raj, K. V.**, et al. (2023). **Central and local arterial stiffness in White Europeans compared to age-, sex-, and BMI-matched South Asians.** *PLOS ONE, 18*(8), e0290118. [https://doi.org/10.1371/journal.pone.0290118](https://doi.org/10.1371/journal.pone.0290118)
 
 ---
 
