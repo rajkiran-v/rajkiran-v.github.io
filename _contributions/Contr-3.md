@@ -11,7 +11,7 @@ toc_label: "Contents"
 
 # Peer Reviewed Conference Proceedings
 
-2023
+## 2023
 
 (1) **Raj, K. V.**, Girish, V. V., Nabeel, P. M., Sivaprakasam, M., & Joseph, J. (2023). Wearable Ambulatory Accelerometer System for Estimating Arterial Stiffness: A Pilot Study. 2023 45th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC), 1–4. https://doi.org/10.1109/EMBC40787.2023.10340560.
 
@@ -40,6 +40,28 @@ toc_label: "Contents"
 (13) **Raj, K. V.**, Manoj, R., Ponkalaivani, S., Nabeel, P. M., Sivaprakasam, M., & Joseph, J. (2023). Measurement of Local Pulse Wave Velocity: Agreement Among Various Methodologies. 2023 IEEE International Symposium on Medical Measurements and Applications (MeMeA), 1–6. https://doi.org/10.1109/MeMeA57477.2023.10171907.
 
 (14) **Raj, K. V.**, Sudarsan, N., Nabeel, P. M., & Joseph, J. (2023). Repeatability and Reproducibility of Flow Mediated Dilation Measured using ARTSENS. 2023 IEEE International Symposium on Medical Measurements and Applications (MeMeA), 1–6. https://doi.org/10.1109/MeMeA57477.2023.10171953.
+
+---
+
+## 2022
+
+(15) George, N. R., **Raj, K. V.**, Nabeel, P. M., Sivaprakasam, M., & Joseph, J. (2022). High Frame-Rate A-Mode Ultrasound System for Jugular Venous Pulse Tracking: A Feasibility Study. 2022 44th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC), 4022–4025. https://doi.org/10.1109/EMBC48229.2022.9871484.
+
+(16) Manoj, R., **Raj, K. V.**, Nabeel, P. M., Sivaprakasam, M., & Joseph, J. (2022). Estimation of Characteristic Impedance using Multi-Gaussian Modelled Flow Velocity Waveform: A Virtual Subjects Study. 2022 44th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC), 2274–2277. https://doi.org/10.1109/EMBC48229.2022.9871684.
+
+(17) **Raj, K. V.**, Manoj, R., Ishwarya, S., Nabeel, P. M., & Joseph, J. (2022). Operator Variabilities in Carotid Pulse Wave Velocity Measured by an Image-free Ultrasound Device. 2022 44th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC), 4018–4021. https://doi.org/10.1109/EMBC48229.2022.9871607.
+
+(18) Manoj, R., **Raj, K. V.**, Nabeel, P. M., Sivaprakasam, M., & Joseph, J. (2022). Variation in Pulse Contour Markers on an Anesthetized Porcine During Pressure Perturbation: Association with Local and Regional Stiffness. 2022 IEEE International Symposium on Medical Measurements and Applications (MeMeA), 1–6. https://doi.org/10.1109/MeMeA54994.2022.9856488.
+
+(19) Manoj, R., **Raj, K. V.**, Nabeel, P. M., Sivaprakasam, M., & Joseph, J. (2022). Evaluation of Pulse Contour Markers using an A-Mode Ultrasound: Association with Carotid Stiffness Markers and Ageing. 2022 44th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC), 4010–4013. https://doi.org/10.1109/EMBC48229.2022.9871405.
+
+(20) **Raj, K. V.**, Manoj, R., Ishwarya, S., Nabeel, P. M., & Joseph, J. (2022). Comparison of Approximated and Actual Bramwell-Hill Equation Implementation for Local Pulse Wave Velocity: Ex-vivo Study. 2022 44th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC), 3989–3992. https://doi.org/10.1109/EMBC48229.2022.9871209.
+
+(21) George, N. R., **Raj, K. V.**, Nabeel, P. M., Sivaprakasam, M., & Joseph, J. (2022). Jugular Venous Diameter Measurement Using A-Mode Ultrasound: A Feasibility Study. 2022 IEEE International Symposium on Medical Measurements and Applications (MeMeA), 1–6. https://doi.org/10.1109/MeMeA54994.2022.9856539.
+
+(22) Ishwarya, S., Manoj, R., **Raj, K. V.**, Nabeel, P. M., & Joseph, J. (2022). Hydrostatic Pressure Compensator for Evaluation of Carotid Stiffness using A-Mode Ultrasound: Design, Characterization, and In-Vivo Validation. 2022 IEEE International Symposium on Medical Measurements and Applications (MeMeA), 1–6. https://doi.org/10.1109/MeMeA54994.2022.9856537.
+
+(23) Manoj, R., **Raj, K. V.**, Nabeel, P. M., Sivaprakasam, M., & Joseph, J. (2022). Assessment of Arterial Reflection Markers using an A-Mode Ultrasound Device. 2022 IEEE International Symposium on Medical Measurements and Applications (MeMeA), 1–6. https://doi.org/10.1109/MeMeA54994.2022.9856446.
 
 ---
 
