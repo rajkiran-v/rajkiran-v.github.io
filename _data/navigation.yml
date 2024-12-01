@@ -6,7 +6,7 @@ main:
     url: /about/
   - title: "Thesis"
     url: /thesis/
-  - title: "Research Outputs"
+  - title: "Research Output"
     url: /contributions/
   - title: "Portfolio"
     url: /portfolio/
