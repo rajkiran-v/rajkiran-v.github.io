@@ -1,7 +1,7 @@
 ---
 header:
-  overlay_image: /assets/images/code.jpg
-  caption: "Photo credit: [**Marcus Spiske**](https://unsplash.com)"
+  overlay_image: /assets/images/write.jpg
+  caption: "tell your stories"
 permalink: /contributions/Contr-1/
 category: contributions
 date: 2024-11-22
