@@ -19,7 +19,7 @@ Currently, he serves as a **Principal Scientist** in the cardiovascular division
 
 His expertise spans several critical areas, including **advanced signal processing, biomedical instrumentation, vascular biomechanics, vascular aging pathways**, and **novel ultrasound imaging technologies**. This diverse skill set enables him to excel as an architect, innovator, and developer of groundbreaking biomedical solutions. He is passionate about transforming healthcare accessibility by creating **affordable solutions** and advocating for **preventive and primordial care**.
 
-For detailed professional information: [my resume][1].
+For detailed professional information: **[my resume][1]**.
 
 ---
 
