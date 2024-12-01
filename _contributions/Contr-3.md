@@ -13,7 +13,7 @@ toc_label: "Contents"
 
 ---
 
-# Conference Proceedings (2023)
+## 2023
 
 (1) **Raj, K. V.**, Sudarsan, N., Nabeel, P. M., & Joseph, J. (2023). **Repeatability and Reproducibility of Flow Mediated Dilation Measured using ARTSENS**. *2023 IEEE International Symposium on Medical Measurements and Applications (MeMeA)*, 1–6. [https://doi.org/10.1109/MeMeA57477.2023.10171953](https://doi.org/10.1109/MeMeA57477.2023.10171953)
 
