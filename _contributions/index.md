@@ -1,8 +1,8 @@
 ---
 classes: wide
 header:
-  overlay_image: /assets/images/tools.jpg
-  caption: "Photo credit: [**Ricky Kharawala**](https://unsplash.com)"
+  overlay_image: /assets/images/write.jpg
+  caption: "tell your stories"
 permalink: /contributions/index.html
 date: 2018-01-07
 
