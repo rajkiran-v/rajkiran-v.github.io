@@ -20,7 +20,7 @@ toc_depth: 1
 
 This work addresses the need for a **currently non-existent device** that facilitates **multifaceted assessment of vascular health markers** for identifying the cumulative burden of risk factors early on and the extent of **vascular aging** for effective prediction of **future cardiovascular events**. 
 
-Consequently, **A-mode ultrasound methods** and a device for assessing the **structural and functional properties of an artery**—including **Lumen Diameter**, **Intima-Media Thickness (IMT)**, **Local and Regional Pulse Wave Velocity (PWV)**, and **central Blood Pressure (BP)**—were developed and validated. 
+Consequently, **A-mode ultrasound methods** and a device for assessing the structural and functional properties of an artery —including **Lumen Diameter**, **Intima-Media Thickness (IMT)**, **Local and Carotid-femoral Pulse Wave Velocity (PWV)**, and **central Blood Pressure (BP)**—were developed and validated. 
 
 This device has demonstrated several **clear advantages**, including:  
 
