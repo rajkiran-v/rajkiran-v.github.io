@@ -1,4 +1,5 @@
 ---
+title: "In love with art of "Scientific Communication"
 classes: wide
 header:
   overlay_image: /assets/images/write.jpg
@@ -29,8 +30,6 @@ feature_row:
     btn_label: "Read More"
     btn_class: "btn--primary"
 ---
-
-# In love with art of "Scientific Communication"
 
 I can never forget my first introduction to the beauty of scientific writing. I had submitted a half-cooked, four-page conference paper, thinking it was a masterpiece, until my professor corrected and reshaped it into a form I could barely recognize. I was particularly amazed at how the results and discussion sections were revised—I had completely skipped the latter, ignorant of its necessity. Ever since, I have fallen in love with the art of scientific communication. With each new article, I would use wonderfully written papers as benchmarks and sources of inspiration, striving to improve compared to my earlier works.
 
