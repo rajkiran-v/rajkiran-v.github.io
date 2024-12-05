@@ -94,31 +94,31 @@ toc_label: "Contents"
 
 ## 2021
 
-1. **Phantom Assessment of an Image-Free Ultrasound Technology for Online Local Pulse Wave Velocity Measurement**
+1. **Phantom Assessment of an Image-Free Ultrasound Technology for Online Local Pulse Wave Velocity Measurement.**
    **Raj, K. V.**; Nabeel, P. M.; Manoj, R.; Shah, M. I.; Joseph, J.. 43rd Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), 5610–5613 (2021), [doi.org/10.1109/EMBC46164.2021.9631077](https://doi.org/10.1109/EMBC46164.2021.9631077).
 
-2. **Phantom Evaluation of a Time Warping-Based Automated Arterial Wall Recognition and Tracking Method**
+3. **Phantom Evaluation of a Time Warping-Based Automated Arterial Wall Recognition and Tracking Method.**
    **Raj, K. V.**; Nabeel, P. M.; Sivaprakasam, M.; Joseph, J.. IEEE International Symposium on Medical Measurements and Applications (MeMeA), 1–6 (2021), [doi.org/10.1109/MeMeA52024.2021.9478692](https://doi.org/10.1109/MeMeA52024.2021.9478692).
 
-3. **Gaussian-Mixture Modelling of A-Mode Radiofrequency Scans for the Measurement of Arterial Wall Thickness**
+5. **Gaussian-Mixture Modelling of A-Mode Radiofrequency Scans for the Measurement of Arterial Wall Thickness**
    **Raj, K. V.**; Nabeel, P. M.; Shah, M. I.; Sivaprakasam, M.; Joseph, J.. 43rd Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), 5598–5601 (2021), [doi.org/10.1109/EMBC46164.2021.9631078](https://doi.org/10.1109/EMBC46164.2021.9631078).
 
-4. **An Image-Free Ultrasound Device for Simultaneous Measurement of Local and Regional Arterial Stiffness Indices**
+6. **An Image-Free Ultrasound Device for Simultaneous Measurement of Local and Regional Arterial Stiffness Indices**
    Nabeel, P. M.; **Raj, K. V.**; Shah, M. I.; Abhidev, V. V.; Manoj, R.; Sivaprakasam, M.; Joseph, J.. IEEE International Symposium on Medical Measurements and Applications (MeMeA), 1–6 (2021), [doi.org/10.1109/MeMeA52024.2021.9478737](https://doi.org/10.1109/MeMeA52024.2021.9478737).
 
-5. **Multi-Gaussian Model for Estimating Stiffness Surrogate Using Arterial Diameter Waveform**
+7. **Multi-Gaussian Model for Estimating Stiffness Surrogate Using Arterial Diameter Waveform**
    Manoj, R.; **Raj, K. V.**; Nabeel, P. M.; Sivaprakasam, M.; Joseph, J.. IEEE International Symposium on Medical Measurements and Applications (MeMeA), 1–6 (2021), [doi.org/10.1109/MeMeA52024.2021.9478600](https://doi.org/10.1109/MeMeA52024.2021.9478600).
 
-6. **Separation of Forward-Backward Waves in the Arterial System Using Multi-Gaussian Approach from Single Pulse Waveform**
+8. **Separation of Forward-Backward Waves in the Arterial System Using Multi-Gaussian Approach from Single Pulse Waveform**
    Manoj, R.; **Raj, K. V.**; Nabeel, P. M.; Sivaprakasam, M.; Joseph, J.. 43rd Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), 5547–5550 (2021), [doi.org/10.1109/EMBC46164.2021.9630358](https://doi.org/10.1109/EMBC46164.2021.9630358).
 
-7. **High-Framerate A-Mode Ultrasound for Vascular Structural Assessments: In-Vivo Validation in a Porcine Model**
+9. **High-Framerate A-Mode Ultrasound for Vascular Structural Assessments: In-Vivo Validation in a Porcine Model**
    Nabeel, P. M.; **Raj, K. V.**; Manoj, R.; Abhidev, V. V.; Sivaprakasam, M.; Joseph, J.. 43rd Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), 5602–5605 (2021), [doi.org/10.1109/EMBC46164.2021.9629738](https://doi.org/10.1109/EMBC46164.2021.9629738).
 
-8. **Evaluation of Nonlinear Wave Separation Method to Assess Reflection Transit Time: A Virtual Patient Study**
+10. **Evaluation of Nonlinear Wave Separation Method to Assess Reflection Transit Time: A Virtual Patient Study**
    Manoj, R.; **Raj, K. V.**; Nabeel, P. M.; Sivaprakasam, M.; Joseph, J.. 43rd Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), 5551–5554 (2021), [doi.org/10.1109/EMBC46164.2021.9630464](https://doi.org/10.1109/EMBC46164.2021.9630464).
 
-9. **Evaluation of Vascular Pulse Contour Indices over the Physiological Blood Pressure Ranges in an Anesthetized Porcine Model**
+11. **Evaluation of Vascular Pulse Contour Indices over the Physiological Blood Pressure Ranges in an Anesthetized Porcine Model**
    Arathy, R.; Nabeel, P. M.; **Raj, K. V.**; Abhidev, V. V.; Sivaprakasam, M.; Joseph, J.. 43rd Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), 5594–5597 (2021), [doi.org/10.1109/EMBC46164.2021.9630980](https://doi.org/10.1109/EMBC46164.2021.9630980).
 
 
