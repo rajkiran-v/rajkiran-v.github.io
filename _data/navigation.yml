@@ -32,9 +32,9 @@ portfolio:
 
   - title: "Publications and Patents"
     children:
-      - title: "Journals"
+      - title: "Journals (13)"
         url: /portfolio/journals/
-      - title: "Conferences"
+      - title: "Conferences (61)"
         url: /portfolio/conferences/
       - title: "Patents"
         url: /portfolio/patents/
