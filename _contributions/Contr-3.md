@@ -14,6 +14,47 @@ toc_label: "Contents"
 ---
 
 ## 2023
+1. **Repeatability and Reproducibility of Flow Mediated Dilation Measured using ARTSENS**  
+   **Raj, K. V.**, Sudarsan, N., Nabeel, P. M., & Joseph, J.. 2023 IEEE International Symposium on Medical Measurements and Applications (MeMeA), 1–6, [https://doi.org/10.1109/MeMeA57477.2023.10171953](https://doi.org/10.1109/MeMeA57477.2023.10171953)
+
+2. **Effect of Fiduciary Point Choice on Pulse Wave Velocity-based Cuffless Pulse Pressure Estimation: Ex-vivo Study**  
+   **Raj, K. V.**, Manoj, R., Ponkalaivani, S., Nabeel, P. M., & Joseph, J.. 2023 IEEE International Symposium on Medical Measurements and Applications (MeMeA), 1–6, [https://doi.org/10.1109/MeMeA57477.2023.10171935](https://doi.org/10.1109/MeMeA57477.2023.10171935)
+
+3. **Evaluation of Pulse Wave Velocity Measurement Accuracy in a Novel In-Vitro System: A Preliminary Study**  
+   **Raj, K. V.**, Sudarsan, N., & Joseph, J.. 2023 IEEE International Symposium on Medical Measurements and Applications (MeMeA), 1–6, [https://doi.org/10.1109/MeMeA57477.2023.10171921](https://doi.org/10.1109/MeMeA57477.2023.10171921)
+
+4. **Plethysmograph-Based Self-Assessment Device for Carotid-Femoral Pulse Wave Velocity Measurement: A Pilot Usability Study**  
+   Ishwarya, S., **Raj, K. V.**, Nabeel, P. M., & Joseph, J.. 2023 45th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC), 1–4, [https://doi.org/10.1109/EMBC40787.2023.10340457](https://doi.org/10.1109/EMBC40787.2023.10340457)
+
+5. **Assessment of Local Venous Pulse Wave Velocity: A Pilot Feasibility Study**  
+   George, N. R., **Raj, K. V.**, Nabeel, P. M., Sivaprakasam, M., & Joseph, J.. 2023 IEEE International Symposium on Medical Measurements and Applications (MeMeA), 1–6, [https://doi.org/10.1109/MeMeA57477.2023.10171902](https://doi.org/10.1109/MeMeA57477.2023.10171902)
+
+6. **Measurement of Local Pulse Wave Velocity: Agreement Among Various Methodologies**  
+   Manoj, R., **Raj, K. V.**, Ponkalaivani, S., Nabeel, P. M., Sivaprakasam, M., & Joseph, J.. 2023 IEEE International Symposium on Medical Measurements and Applications (MeMeA), 1–6, [https://doi.org/10.1109/MeMeA57477.2023.10171907](https://doi.org/10.1109/MeMeA57477.2023.10171907)
+
+7. **Normalization of Flow-mediated Dilation to Brachial Artery Material Property: A Feasibility Study**  
+   Sudarsan, N., Manoj, R., **Raj, K. V.**, Nabeel, P. M., Chandran, D. S., & Joseph, J.. 2023 45th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC), 1–4, [https://doi.org/10.1109/EMBC40787.2023.10341153](https://doi.org/10.1109/EMBC40787.2023.10341153)
+
+8. **Wearable Ambulatory Accelerometer System for Estimating Arterial Stiffness: A Pilot Study**  
+   Girish, V. V., **Raj, K. V.**, Nabeel, P. M., Sivaprakasam, M., & Joseph, J.. 2023 45th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC), 1–4, [https://doi.org/10.1109/EMBC40787.2023.10340560](https://doi.org/10.1109/EMBC40787.2023.10340560)
+
+9. **Acceleration Plethysmography for Ambulatory Vascular Monitoring: A Pilot Study**  
+   Girish, V. V., **Raj, K. V.**, Nabeel, P., Sivaprakasam, M., & Joseph, J.. 2023 IEEE International Symposium on Medical Measurements and Applications (MeMeA), 1–6, [https://doi.org/10.1109/MeMeA57477.2023.10171877](https://doi.org/10.1109/MeMeA57477.2023.10171877)
+
+10. **Ultrasound for Venous Local Pulse Wave Velocity: Comparison of Pulse Transit Time Methods**  
+    George, N. R., Manoj, R., **Raj, K. V.**, Nabeel, P. M., Sivaprakasam, M., & Joseph, J.. 2023 45th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC), 1–4, [https://doi.org/10.1109/EMBC40787.2023.10340269](https://doi.org/10.1109/EMBC40787.2023.10340269)
+
+11. **Assessment of Endothelial Reactivity by Measurement of Vascular Material Response to Shear Stress: A Feasibility Study**  
+    Sudarsan, N., Manoj, R., **Raj, K. V.**, Nabeel, P. M., Chandran, D. S., & Joseph, J.. 2023 45th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC), 1–4, [https://doi.org/10.1109/EMBC40787.2023.10340551](https://doi.org/10.1109/EMBC40787.2023.10340551)
+
+12. **Arterial Wave Separation Analysis and Reflection Wave Transit Time Estimation using a Double Rayleigh Flow Rate Model**  
+    Manoj, R., Ishwarya, S., **Raj, K. V.**, Nabeel, P. M., Sivaprakasam, M., & Joseph, J.. 2023 45th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC), 1–4, [https://doi.org/10.1109/EMBC40787.2023.10340514](https://doi.org/10.1109/EMBC40787.2023.10340514)
+
+13. **A Pilot Observational Cohort Study to Investigate the Effect of Valsalva Maneuver on Internal Jugular Venous Diameter**  
+    George, N. R., **Raj, K. V.**, Nabeel, P. M., Sivaprakasam, M., & Joseph, J.. 2023 45th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC), 1–4, [https://doi.org/10.1109/EMBC40787.2023.10340601](https://doi.org/10.1109/EMBC40787.2023.10340601)
+
+14. **Development of a Novel Model for Estimating the Vascular Shear Stress: An Ex-vivo Study**  
+    Sudarsan, N., **Raj, K. V.**, Sivaprakasam, M., & Joseph, J.. 2023 IEEE International Symposium on Medical Measurements and Applications (MeMeA), 1–6, [https://doi.org/10.1109/MeMeA57477.2023.10171910](https://doi.org/10.1109/MeMeA57477.2023.10171910)
 
 (1) **Raj, K. V.**, Sudarsan, N., Nabeel, P. M., & Joseph, J. (2023). **Repeatability and Reproducibility of Flow Mediated Dilation Measured using ARTSENS**. *2023 IEEE International Symposium on Medical Measurements and Applications (MeMeA)*, 1–6. [https://doi.org/10.1109/MeMeA57477.2023.10171953](https://doi.org/10.1109/MeMeA57477.2023.10171953)
 
