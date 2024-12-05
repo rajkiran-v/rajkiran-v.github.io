@@ -55,9 +55,9 @@ portfolio:
 contributions:
   - title: "Publications"
     children:
-      - title: "Journals"
+      - title: "Journals (13)"
         url: /contributions/jrnl/
-      - title: "Conferences"
+      - title: "Conferences (61)"
         url: /contributions/conf/
 
   - title: "Patents"
