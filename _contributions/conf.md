@@ -128,7 +128,7 @@ Arathy, R., Nabeel, P. M., **Raj, K. V.**, Abhidev, V. V., Sivaprakasam, M., & J
 2. [**Measurement of Pressure-dependent Intra-Beat Changes in Carotid Pulse Wave Velocity using Image-Free Fast Ultrasound**](https://doi.org/10.2991/artres.k.201209.053)  
 **Raj, K. V**, Nabeel, P. M., Joseph, J., Chandran, D., & Sivaprakasam, M. (2020). *Artery Research*, 26(Supplement 1), S63.
 
-3. [**A Bi-modal Probe Integrated with A-mode Ultrasound and Force Sensor for Single-site Assessment of Arterial Pressure-Diameter Loop**](https://doi.org/10.1109/MeMeA49120.2020.9137189) 
+3. [**A Bi-modal Probe Integrated with A-mode Ultrasound and Force Sensor for Single-site Assessment of Arterial Pressure-Diameter Loop**](https://doi.org/10.1109/MeMeA49120.2020.9137189)  
 Manoj, R., **Raj, K. V**, Nabeel, P. M., Joseph, J., & Sivaprakasam, M. (2020). *IEEE International Symposium on Medical Measurements and Applications (MeMeA)*, 1–6. Bari.
 
 4. [**Feasibility Evaluation of Imaging-Free Ultrasound Technology to Measure Diameters of Brachial and Radial Arteries for Assessment of Endothelial Function**](https://doi.org/10.2991/artres.k.201209.059)  
@@ -209,7 +209,7 @@ Nabeel, P. M., Chilaka, V., **Raj, K. V**, Joseph, J., & Sivaprakasam, M. (2019)
 7. [**Local Evaluation of Variation in Pulse Wave Velocity Over the Cardiac Cycle Using Single-Element Ultrasound Transducer**](https://doi.org/10.1109/EMBC.2018.8513151)  
    Nabeel, P. M., **Raj, K. V.**, Jayaraj, J., & Mohanasankar, S. (2018). *40th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)*, 4560–4563.
 
-8. [**Live Demonstration of ARTSENS® Pen – An Image-Free Ultrasound Device for Automated Evaluation of Vascular Stiffness**](https://doi.org/10.1109/ICSENS.2018.8589596) 
+8. [**Live Demonstration of ARTSENS® Pen – An Image-Free Ultrasound Device for Automated Evaluation of Vascular Stiffness**](https://doi.org/10.1109/ICSENS.2018.8589596)  
    Joseph, J., Nabeel, P. M., Shah, M. I., **Raj, K. V.**, & Sivaprakasam, M. (2018). *IEEE Sensors*, 1.
 
 
@@ -217,7 +217,7 @@ Nabeel, P. M., Chilaka, V., **Raj, K. V**, Joseph, J., & Sivaprakasam, M. (2019)
 
 ## 2017
 
-1. [**An Image-Free Ultrasound Method to Estimate Artery Wall Thickness Surrogate for Screening**]([https://doi.org/10.1109/EMBC.2017.8036812](https://doi.org/10.1109/MeMeA.2017.7985897)  
+1. [**An Image-Free Ultrasound Method to Estimate Artery Wall Thickness Surrogate for Screening**](https://doi.org/10.1109/MeMeA.2017.7985897)  
    **Raj, K. V.**, Joseph, J., Shah, M. I., & Sivaprakasam, M. (2017). *IEEE International Symposium on Medical Measurements and Applications (MeMeA)*, 1–6. Rochester.
 
 2. [**Brachial Artery Stiffness Estimation Using ARTSENS**](https://doi.org/10.1109/EMBC.2017.8036812)  
