@@ -75,16 +75,16 @@ toc_label: "Contents"
 5. [**Variation in Pulse Contour Markers on an Anesthetized Porcine During Pressure Perturbation: Association with Local and Regional Stiffness**](https://doi.org/10.1109/MeMeA54994.2022.9856488)  
    Manoj, R., **Raj, K. V.**, Nabeel, P. M., Sivaprakasam, M., & Joseph, J. (2022). *2022 IEEE International Symposium on Medical Measurements and Applications (MeMeA)*, 1–6.
 
-6. [**Evaluation of Pulse Contour Markers using an A-Mode Ultrasound: Association with Carotid Stiffness Markers and Ageing**](https://doi.org/10.1109/EMBC48229.2022.9871405) 
+7. [**Evaluation of Pulse Contour Markers using an A-Mode Ultrasound: Association with Carotid Stiffness Markers and Ageing**](https://doi.org/10.1109/EMBC48229.2022.9871405)  
    Manoj, R., **Raj, K. V.**, Nabeel, P. M., Sivaprakasam, M., & Joseph, J. (2022). *2022 44th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC)*, 4010–4013.
 
-7. [**Jugular Venous Diameter Measurement Using A-Mode Ultrasound: A Feasibility Study**](https://doi.org/10.1109/MeMeA54994.2022.9856539)  
+8. [**Jugular Venous Diameter Measurement Using A-Mode Ultrasound: A Feasibility Study**](https://doi.org/10.1109/MeMeA54994.2022.9856539)  
    George, N. R., **Raj, K. V.**, Nabeel, P. M., Sivaprakasam, M., & Joseph, J. (2022). *2022 IEEE International Symposium on Medical Measurements and Applications (MeMeA)*, 1–6.
 
-8. [**Hydrostatic Pressure Compensator for Evaluation of Carotid Stiffness using A-Mode Ultrasound: Design, Characterization, and In-Vivo Validation**](https://doi.org/10.1109/MeMeA54994.2022.9856537)  
+9. [**Hydrostatic Pressure Compensator for Evaluation of Carotid Stiffness using A-Mode Ultrasound: Design, Characterization, and In-Vivo Validation**](https://doi.org/10.1109/MeMeA54994.2022.9856537)  
    Ishwarya, S., Manoj, R., **Raj, K. V.**, Nabeel, P. M., & Joseph, J. (2022). *2022 IEEE International Symposium on Medical Measurements and Applications (MeMeA)*, 1–6.
 
-9. [**Assessment of Arterial Reflection Markers using an A-Mode Ultrasound Device**](https://doi.org/10.1109/MeMeA54994.2022.9856446)  
+10. [**Assessment of Arterial Reflection Markers using an A-Mode Ultrasound Device**](https://doi.org/10.1109/MeMeA54994.2022.9856446)  
    Manoj, R., **Raj, K. V.**, Nabeel, P. M., Sivaprakasam, M., & Joseph, J. (2022). *2022 IEEE International Symposium on Medical Measurements and Applications (MeMeA)*, 1–6.
 
 
