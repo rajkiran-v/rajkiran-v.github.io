@@ -91,7 +91,7 @@ toc_label: "Contents"
 ---
 ## 2021
 
-1. [**Phantom Assessment of an Image-Free Ultrasound Technology for Online Local Pulse Wave Velocity Measurement**](https://doi.org/10.1109/EMBC46164.2021.9631077)  
+1. [**Phantom Assessment of an Image-Free Ultrasound Technology for Online Local Pulse Wave Velocity Measurement**](https://doi.org/10.1109/embc46164.2021.9630499)  
 **Raj, K. V.**, Nabeel, P. M., Manoj, R., Shah, M. I., & Joseph, J.. *43rd Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)*, 5610–5613 (2021).
 
 2. [**Phantom Evaluation of a Time Warping-Based Automated Arterial Wall Recognition and Tracking Method**](https://doi.org/10.1109/MeMeA52024.2021.9478692)  
