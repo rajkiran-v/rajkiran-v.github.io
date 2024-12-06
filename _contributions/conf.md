@@ -122,7 +122,7 @@ Arathy, R., Nabeel, P. M., **Raj, K. V.**, Abhidev, V. V., Sivaprakasam, M., & J
 ---
 ## 2020
 
-1. [**A Dynamic Time Warping Method for Improved Arterial Wall-Tracking using A-mode Ultrasound Frames: A Proof-of-Concept**](https://doi.org/10.2991/artres.k.201209.053)  
+1. [**A Dynamic Time Warping Method for Improved Arterial Wall-Tracking using A-mode Ultrasound Frames: A Proof-of-Concept**](https://doi.org/10.1109/MeMeA49120.2020.9137338)  
 **Raj, K. V**, Joseph, J., Nabeel, P. M., & Sivaprakasam, M. (2020). *IEEE International Symposium on Medical Measurements and Applications (MeMeA)*, 1–6. Bari.
 
 2. [**Measurement of Pressure-dependent Intra-Beat Changes in Carotid Pulse Wave Velocity using Image-Free Fast Ultrasound**](https://doi.org/10.2991/artres.k.201209.053)  
