@@ -188,7 +188,7 @@ Nabeel, P. M., Chilaka, V., **Raj, K. V**, Joseph, J., & Sivaprakasam, M. (2019)
 
 ## 2018
 
-1. [**Non-Invasive Assessment of Arterial Incremental Elastic Modulus Variations Within a Cardiac Cycle**](https://doi.org/10.1109/MeMeA.2018.8438729)  
+1. [**Non-Invasive Assessment of Arterial Incremental Elastic Modulus Variations Within a Cardiac Cycle**](https://doi.org/10.18154/RWTH-CONV-224963)  
    **Raj, K. V.**, Nabeel, P. M., Joseph, J., & Sivaprakasam, M. (2018). *13th Russian-German Conference on Biomedical Engineering (RGC)*, 108–111. Retrieved from RWTH Aachen Publications.
 
 2. [**Measurement of Arterial Young’s Elastic Modulus Using ARTSENS Pen**](https://doi.org/10.1109/MeMeA.2018.8438729)  
@@ -203,13 +203,13 @@ Nabeel, P. M., Chilaka, V., **Raj, K. V**, Joseph, J., & Sivaprakasam, M. (2019)
 5. [**Non-Invasive Assessment of Local Pulse Wave Velocity as Function of Arterial Pressure**](https://doi.org/10.1109/MeMeA.2018.8438763)  
    Nabeel, P. M., **Raj, K. V.**, Joseph, J., & Sivaprakasam, M. (2018). *IEEE International Symposium on Medical Measurements and Applications (MeMeA)*, 1–6.
 
-6. [**Local Pulse Wave Velocity and Cuffless Blood Pressure Assessment Using ARTSENS**](https://doi.org/10.1109/EMBC.2018.8513198)  
+6. [**Local Pulse Wave Velocity and Cuffless Blood Pressure Assessment Using ARTSENS**](https://www.researchgate.net/publication/329024794_Local_Pulse_Wave_Velocity_and_Cuffless_Blood_Pressure_Assessment_using_ARTSENS) 
    Nabeel, P. M., **Raj, K. V.**, Joseph, J., & Sivaprakasam, M. (2018). *40th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)*, 1. Honolulu.
 
 7. [**Local Evaluation of Variation in Pulse Wave Velocity Over the Cardiac Cycle Using Single-Element Ultrasound Transducer**](https://doi.org/10.1109/EMBC.2018.8513151)  
    Nabeel, P. M., **Raj, K. V.**, Jayaraj, J., & Mohanasankar, S. (2018). *40th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)*, 4560–4563.
 
-8. [**Live Demonstration of ARTSENS® Pen – An Image-Free Ultrasound Device for Automated Evaluation of Vascular Stiffness**](https://doi.org/10.1115/1.4002493)  
+8. [**Live Demonstration of ARTSENS® Pen – An Image-Free Ultrasound Device for Automated Evaluation of Vascular Stiffness**](https://doi.org/10.1109/ICSENS.2018.8589596) 
    Joseph, J., Nabeel, P. M., Shah, M. I., **Raj, K. V.**, & Sivaprakasam, M. (2018). *IEEE Sensors*, 1.
 
 
