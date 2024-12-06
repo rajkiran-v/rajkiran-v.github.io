@@ -32,9 +32,9 @@ feature_row:
 
 # In love with art of "Scientific Communication
 
-I can never forget my first introduction to the beauty of scientific writing. I had submitted a half-cooked, four-page conference paper, thinking it was a masterpiece, until my professor corrected and reshaped it into a form I could barely recognize. I was particularly amazed at how the results and discussion sections were revised—I had completely skipped the latter, ignorant of its necessity. Ever since, I have fallen in love with the art of scientific communication. With each new article, I would use wonderfully written papers as benchmarks and sources of inspiration, striving to improve compared to my earlier works.
+I can never forget my first introduction to the beauty of scientific writing. I had submitted a half-cooked, four-page conference paper, thinking it was a masterpiece, until my professor corrected and reshaped it into a form I could barely recognize. I was particularly amazed at how the results and discussion sections were revised—I had completely skipped the latter, ignorant of its necessity. **Ever since, I have fallen in love with the art of scientific communication**. With each new article, I would use wonderfully written papers as benchmarks and sources of inspiration, striving to improve compared to my earlier works.
 
-My best times during my PhD were always accompanied by a cup of coffee, a writing partner, late-night sessions, and the sound of keys clicking away as the paper progressed toward completion. I now take pleasure in sharing the insights and nuances I’ve gathered with budding writers, offering guidance on effective articulation techniques for their journals, theses, and reports.
+My best times during my PhD were always accompanied by a cup of coffee, a writing partner, late-night sessions, and the sound of keys clicking away as the paper progressed toward completion. **I now take pleasure in sharing the insights** and nuances I’ve gathered with budding writers, offering guidance on effective articulation techniques for their journals, theses, and reports.
 
 The best reward to date has been the review comments for my first journal article (submitted to Computer Methods and Programs in Biomedicine), which I coincidentally received on my birthday.
 
