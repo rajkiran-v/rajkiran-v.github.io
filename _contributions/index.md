@@ -1,9 +1,9 @@
 ---
 classes: wide
 header:
-  overlay_image: /assets/images/tools.jpg
-  caption: "Photo credit: [**Ricky Kharawala**](https://unsplash.com)"
-permalink: /portfolio/index.html
+  overlay_image: /assets/images/write.jpg
+  caption: "tell your stories"
+permalink: /contributions/index.html
 date: 2018-01-07
 
 feature_row:
@@ -30,17 +30,13 @@ feature_row:
     btn_class: "btn--primary"
 ---
 
-# Portfolio
+# In love with art of "Scientific Communication
 
-Here you'll find summaries of the major projects I've done over the years, which
-are representative of my skills and interests. These projects span everything
-from mathematical physics to machine learning, from finance to advertising, from
-the theoretical to the practical.
+I can never forget my first introduction to the beauty of scientific writing. I had submitted a half-cooked, four-page conference paper, thinking it was a masterpiece, until my professor corrected and reshaped it into a form I could barely recognize. I was particularly amazed at how the results and discussion sections were revised—I had completely skipped the latter, ignorant of its necessity. **Ever since, I have fallen in love with the art of scientific communication**. With each new article, I would use wonderfully written papers as benchmarks and sources of inspiration, striving to improve compared to my earlier works.
 
-The discussion here is generally non-technical; for the research projects,
-related publications can be found in [my resume][1]. There are also links to
-documents at the top of each page, which offer more depth. If you're curious
-about technical details I've glossed over, feel free to [contact me][2].
+My best times during my PhD were always accompanied by a cup of coffee, a writing partner, late-night sessions, and the sound of keys clicking away as the paper progressed toward completion. **I now take pleasure in sharing the insights** and nuances I’ve gathered with budding writers, offering guidance on effective articulation techniques for their journals, theses, and reports.
+
+<img src="{{ "/assets/images/Contributions-img1.jpg" | absolute_url }}" width="70%" style="margin-right: 20px;" align="left"> The best reward so far was receiving review comments for **my first journal article ([CMBP](https://doi.org/10.1016/j.cmpb.2020.105557)) on my b'day**.
 
 
 <div style="margin-bottom:1cm" align="center"><font size="55">Selected Projects</font></div>
@@ -49,6 +45,4 @@ about technical details I've glossed over, feel free to [contact me][2].
 
 <!------------------------------- FOOTER --------------------------------->
 
-[1]: /assets/docs/resume.pdf
 
-[2]: mailto:peter@pwills.com
