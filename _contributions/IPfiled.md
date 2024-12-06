@@ -2,7 +2,7 @@
 header:
   overlay_image: /assets/images/write.jpg
   caption: "tell your stories"
-permalink: /contributions/conf/
+permalink: /contributions/IPfiled/
 category: contributions
 date: 2024-11-22
 toc: true
