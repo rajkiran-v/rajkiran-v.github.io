@@ -40,8 +40,8 @@ My best times during my PhD were always accompanied by a cup of coffee, a writin
 
 
 
-
 <div style="margin-bottom:1cm" align="center"><font size="55">Selected Projects</font></div>
+
 
 {% include feature_row %}
 
