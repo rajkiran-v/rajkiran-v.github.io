@@ -15,67 +15,72 @@ toc_label: "Contents"
 
 ## 2023
 
-1. **Repeatability and Reproducibility of Flow Mediated Dilation Measured using ARTSENS**  
-   **Raj, K. V.**, Sudarsan, N., Nabeel, P. M., & Joseph, J.. 2023 IEEE International Symposium on Medical Measurements and Applications (MeMeA), 1–6, [https://doi.org/10.1109/MeMeA57477.2023.10171953](https://doi.org/10.1109/MeMeA57477.2023.10171953)
+1. [**Repeatability and Reproducibility of Flow Mediated Dilation Measured using ARTSENS**](https://doi.org/10.1109/MeMeA57477.2023.10171953)  
+   **Raj, K. V.**, Sudarsan, N., Nabeel, P. M., & Joseph, J.. 2023 IEEE International Symposium on Medical Measurements and Applications (MeMeA), 1–6.
 
-2. **Effect of Fiduciary Point Choice on Pulse Wave Velocity-based Cuffless Pulse Pressure Estimation: Ex-vivo Study**  
-   **Raj, K. V.**, Manoj, R., Ponkalaivani, S., Nabeel, P. M., & Joseph, J.. 2023 IEEE International Symposium on Medical Measurements and Applications (MeMeA), 1–6, [https://doi.org/10.1109/MeMeA57477.2023.10171935](https://doi.org/10.1109/MeMeA57477.2023.10171935)
+2. [**Effect of Fiduciary Point Choice on Pulse Wave Velocity-based Cuffless Pulse Pressure Estimation: Ex-vivo Study**](https://doi.org/10.1109/MeMeA57477.2023.10171935)  
+   **Raj, K. V.**, Manoj, R., Ponkalaivani, S., Nabeel, P. M., & Joseph, J.. 2023 IEEE International Symposium on Medical Measurements and Applications (MeMeA), 1–6.
 
-3. **Evaluation of Pulse Wave Velocity Measurement Accuracy in a Novel In-Vitro System: A Preliminary Study**  
-   **Raj, K. V.**, Sudarsan, N., & Joseph, J.. 2023 IEEE International Symposium on Medical Measurements and Applications (MeMeA), 1–6, [https://doi.org/10.1109/MeMeA57477.2023.10171921](https://doi.org/10.1109/MeMeA57477.2023.10171921)
+3. [**Evaluation of Pulse Wave Velocity Measurement Accuracy in a Novel In-Vitro System: A Preliminary Study**](https://doi.org/10.1109/MeMeA57477.2023.10171921)  
+   **Raj, K. V.**, Sudarsan, N., & Joseph, J.. 2023 IEEE International Symposium on Medical Measurements and Applications (MeMeA), 1–6.
 
-4. **Plethysmograph-Based Self-Assessment Device for Carotid-Femoral Pulse Wave Velocity Measurement: A Pilot Usability Study**  
-   Ishwarya, S., **Raj, K. V.**, Nabeel, P. M., & Joseph, J.. 2023 45th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC), 1–4, [https://doi.org/10.1109/EMBC40787.2023.10340457](https://doi.org/10.1109/EMBC40787.2023.10340457)
+4. [**Plethysmograph-Based Self-Assessment Device for Carotid-Femoral Pulse Wave Velocity Measurement: A Pilot Usability Study**](https://doi.org/10.1109/EMBC40787.2023.10340457)  
+   Ishwarya, S., **Raj, K. V.**, Nabeel, P. M., & Joseph, J.. 2023 45th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC), 1–4.
 
-5. **Assessment of Local Venous Pulse Wave Velocity: A Pilot Feasibility Study**  
-   George, N. R., **Raj, K. V.**, Nabeel, P. M., Sivaprakasam, M., & Joseph, J.. 2023 IEEE International Symposium on Medical Measurements and Applications (MeMeA), 1–6, [https://doi.org/10.1109/MeMeA57477.2023.10171902](https://doi.org/10.1109/MeMeA57477.2023.10171902)
+5. [**Assessment of Local Venous Pulse Wave Velocity: A Pilot Feasibility Study**](https://doi.org/10.1109/MeMeA57477.2023.10171902)  
+   George, N. R., **Raj, K. V.**, Nabeel, P. M., Sivaprakasam, M., & Joseph, J.. 2023 IEEE International Symposium on Medical Measurements and Applications (MeMeA), 1–6.
 
-6. **Measurement of Local Pulse Wave Velocity: Agreement Among Various Methodologies**  
-   Manoj, R., **Raj, K. V.**, Ponkalaivani, S., Nabeel, P. M., Sivaprakasam, M., & Joseph, J.. 2023 IEEE International Symposium on Medical Measurements and Applications (MeMeA), 1–6, [https://doi.org/10.1109/MeMeA57477.2023.10171907](https://doi.org/10.1109/MeMeA57477.2023.10171907)
+6. [**Measurement of Local Pulse Wave Velocity: Agreement Among Various Methodologies**](https://doi.org/10.1109/MeMeA57477.2023.10171907)  
+   Manoj, R., **Raj, K. V.**, Ponkalaivani, S., Nabeel, P. M., Sivaprakasam, M., & Joseph, J.. 2023 IEEE International Symposium on Medical Measurements and Applications (MeMeA), 1–6.
 
-7. **Normalization of Flow-mediated Dilation to Brachial Artery Material Property: A Feasibility Study**  
-   Sudarsan, N., Manoj, R., **Raj, K. V.**, Nabeel, P. M., Chandran, D. S., & Joseph, J.. 2023 45th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC), 1–4, [https://doi.org/10.1109/EMBC40787.2023.10341153](https://doi.org/10.1109/EMBC40787.2023.10341153)
+7. [**Normalization of Flow-mediated Dilation to Brachial Artery Material Property: A Feasibility Study**](https://doi.org/10.1109/EMBC40787.2023.10341153)  
+   Sudarsan, N., Manoj, R., **Raj, K. V.**, Nabeel, P. M., Chandran, D. S., & Joseph, J.. 2023 45th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC), 1–4.
 
-8. **Wearable Ambulatory Accelerometer System for Estimating Arterial Stiffness: A Pilot Study**  
-   Girish, V. V., **Raj, K. V.**, Nabeel, P. M., Sivaprakasam, M., & Joseph, J.. 2023 45th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC), 1–4, [https://doi.org/10.1109/EMBC40787.2023.10340560](https://doi.org/10.1109/EMBC40787.2023.10340560)
+8. [**Wearable Ambulatory Accelerometer System for Estimating Arterial Stiffness: A Pilot Study**](https://doi.org/10.1109/EMBC40787.2023.10340560)  
+   Girish, V. V., **Raj, K. V.**, Nabeel, P. M., Sivaprakasam, M., & Joseph, J.. 2023 45th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC), 1–4.
 
-9. **Acceleration Plethysmography for Ambulatory Vascular Monitoring: A Pilot Study**  
-   Girish, V. V., **Raj, K. V.**, Nabeel, P., Sivaprakasam, M., & Joseph, J.. 2023 IEEE International Symposium on Medical Measurements and Applications (MeMeA), 1–6, [https://doi.org/10.1109/MeMeA57477.2023.10171877](https://doi.org/10.1109/MeMeA57477.2023.10171877)
+9. [**Acceleration Plethysmography for Ambulatory Vascular Monitoring: A Pilot Study**](https://doi.org/10.1109/MeMeA57477.2023.10171877)  
+   Girish, V. V., **Raj, K. V.**, Nabeel, P., Sivaprakasam, M., & Joseph, J.. 2023 IEEE International Symposium on Medical Measurements and Applications (MeMeA), 1–6.
 
-10. **Ultrasound for Venous Local Pulse Wave Velocity: Comparison of Pulse Transit Time Methods**  
-    George, N. R., Manoj, R., **Raj, K. V.**, Nabeel, P. M., Sivaprakasam, M., & Joseph, J.. 2023 45th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC), 1–4, [https://doi.org/10.1109/EMBC40787.2023.10340269](https://doi.org/10.1109/EMBC40787.2023.10340269)
+10. [**Ultrasound for Venous Local Pulse Wave Velocity: Comparison of Pulse Transit Time Methods**](https://doi.org/10.1109/EMBC40787.2023.10340269)  
+    George, N. R., Manoj, R., **Raj, K. V.**, Nabeel, P. M., Sivaprakasam, M., & Joseph, J.. 2023 45th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC), 1–4.
 
-11. **Assessment of Endothelial Reactivity by Measurement of Vascular Material Response to Shear Stress: A Feasibility Study**  
-    Sudarsan, N., Manoj, R., **Raj, K. V.**, Nabeel, P. M., Chandran, D. S., & Joseph, J.. 2023 45th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC), 1–4, [https://doi.org/10.1109/EMBC40787.2023.10340551](https://doi.org/10.1109/EMBC40787.2023.10340551)
+11. [**Assessment of Endothelial Reactivity by Measurement of Vascular Material Response to Shear Stress: A Feasibility Study**](https://doi.org/10.1109/EMBC40787.2023.10340551)  
+    Sudarsan, N., Manoj, R., **Raj, K. V.**, Nabeel, P. M., Chandran, D. S., & Joseph, J.. 2023 45th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC), 1–4.
 
-12. **Arterial Wave Separation Analysis and Reflection Wave Transit Time Estimation using a Double Rayleigh Flow Rate Model**  
-    Manoj, R., Ishwarya, S., **Raj, K. V.**, Nabeel, P. M., Sivaprakasam, M., & Joseph, J.. 2023 45th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC), 1–4, [https://doi.org/10.1109/EMBC40787.2023.10340514](https://doi.org/10.1109/EMBC40787.2023.10340514)
+12. [**Arterial Wave Separation Analysis and Reflection Wave Transit Time Estimation using a Double Rayleigh Flow Rate Model**](https://doi.org/10.1109/EMBC40787.2023.10340514)  
+    Manoj, R., Ishwarya, S., **Raj, K. V.**, Nabeel, P. M., Sivaprakasam, M., & Joseph, J.. 2023 45th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC), 1–4.
 
-13. **A Pilot Observational Cohort Study to Investigate the Effect of Valsalva Maneuver on Internal Jugular Venous Diameter**  
-    George, N. R., **Raj, K. V.**, Nabeel, P. M., Sivaprakasam, M., & Joseph, J.. 2023 45th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC), 1–4, [https://doi.org/10.1109/EMBC40787.2023.10340601](https://doi.org/10.1109/EMBC40787.2023.10340601)
+13. [**A Pilot Observational Cohort Study to Investigate the Effect of Valsalva Maneuver on Internal Jugular Venous Diameter**](https://doi.org/10.1109/EMBC40787.2023.10340601)  
+    George, N. R., **Raj, K. V.**, Nabeel, P. M., Sivaprakasam, M., & Joseph, J.. 2023 45th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC), 1–4.
 
-14. **Development of a Novel Model for Estimating the Vascular Shear Stress: An Ex-vivo Study**  
-    Sudarsan, N., **Raj, K. V.**, Sivaprakasam, M., & Joseph, J.. 2023 IEEE International Symposium on Medical Measurements and Applications (MeMeA), 1–6, [https://doi.org/10.1109/MeMeA57477.2023.10171910](https://doi.org/10.1109/MeMeA57477.2023.10171910)
+14. [**Development of a Novel Model for Estimating the Vascular Shear Stress: An Ex-vivo Study**](https://doi.org/10.1109/MeMeA57477.2023.10171910)  
+    Sudarsan, N., **Raj, K. V.**, Sivaprakasam, M., & Joseph, J.. 2023 IEEE International Symposium on Medical Measurements and Applications (MeMeA), 1–6.
 
+---
+// Check from here and change the rest
+## 2022
+
+1. [**Operator Variabilities in Carotid Pulse Wave Velocity Measured by an Image-free Ultrasound Device**](https://doi.org/10.1109/EMBC48229.2022.9871607)  
+   **Raj, K. V.**, Manoj, R., Ishwarya, S., Nabeel, P. M., & Joseph, J. EMBC 44, 4018–4021 (2022).
+
+2. [**Comparison of Approximated and Actual Bramwell-Hill Equation Implementation for Local Pulse Wave Velocity: Ex-vivo Study**](https://doi.org/10.1109/EMBC48229.2022.9871209)  
+   **Raj, K. V.**, Manoj, R., Ishwarya, S., Nabeel, P. M., & Joseph, J. EMBC 44, 3989–3992 (2022).
+
+3. [**High Frame-Rate A-Mode Ultrasound System for Jugular Venous Pulse Tracking: A Feasibility Study**](https://doi.org/10.1109/EMBC48229.2022.9871484)  
+   George, N. R., **Raj, K. V.**, Nabeel, P. M., Sivaprakasam, M., & Joseph, J. EMBC 44, 4022–4025 (2022).
+
+4. [**Estimation of Characteristic Impedance using Multi-Gaussian Modelled Flow Velocity Waveform: A Virtual Subjects Study**](https://doi.org/10.1109/EMBC48229.2022.9871684)  
+   Manoj, R., **Raj, K. V.**, Nabeel, P. M., Sivaprakasam, M., & Joseph, J. EMBC 44, 2274–2277 (2022).
+
+5. [**Variation in Pulse Contour Markers on an Anesthetized Porcine During Pressure Perturbation: Association with Local and Regional Stiffness**](https://doi.org/10.1109/MeMeA54994.2022.9856488)  
+   Manoj, R., **Raj, K. V.**, Nabeel, P. M., Sivaprakasam, M., & Joseph, J. MeMeA 2022, 1–6.
+
+6. [**Intra-observer Variability in Pulse Wave Velocity Measured using Image-Free Ultrasound Device**](https://doi.org/10.1109/EMBC48229.2022.9871468)  
+   **Raj, K. V.**, Manoj, R., Nabeel, P. M., & Joseph, J. EMBC 44, 1472–1475 (2022).
 
 ---
 
-## 2022
-
-1. **Operator Variabilities in Carotid Pulse Wave Velocity Measured by an Image-free Ultrasound Device**  
-   **Raj, K. V.**, Manoj, R., Ishwarya, S., Nabeel, P. M., & Joseph, J. EMBC 44, 4018–4021 (2022), [doi.org/10.1109/EMBC48229.2022.9871607](https://doi.org/10.1109/EMBC48229.2022.9871607)  
-
-2. **Comparison of Approximated and Actual Bramwell-Hill Equation Implementation for Local Pulse Wave Velocity: Ex-vivo Study**  
-   **Raj, K. V.**, Manoj, R., Ishwarya, S., Nabeel, P. M., & Joseph, J. EMBC 44, 3989–3992 (2022), [doi.org/10.1109/EMBC48229.2022.9871209](https://doi.org/10.1109/EMBC48229.2022.9871209)  
-
-3. **High Frame-Rate A-Mode Ultrasound System for Jugular Venous Pulse Tracking: A Feasibility Study**  
-   George, N. R., **Raj, K. V.**, Nabeel, P. M., Sivaprakasam, M., & Joseph, J. EMBC 44, 4022–4025 (2022), [doi.org/10.1109/EMBC48229.2022.9871484](https://doi.org/10.1109/EMBC48229.2022.9871484)  
-
-4. **Estimation of Characteristic Impedance using Multi-Gaussian Modelled Flow Velocity Waveform: A Virtual Subjects Study**  
-   Manoj, R., **Raj, K. V.**, Nabeel, P. M., Sivaprakasam, M., & Joseph, J. EMBC 44, 2274–2277 (2022), [doi.org/10.1109/EMBC48229.2022.9871684](https://doi.org/10.1109/EMBC48229.2022.9871684)  
-
-5. **Variation in Pulse Contour Markers on an Anesthetized Porcine During Pressure Perturbation: Association with Local and Regional Stiffness**  
-   Manoj, R., **Raj, K. V.**, Nabeel, P. M., Sivaprakasam, M., & Joseph, J. MeMeA, 1–6 (2022), [doi.org/10.1109/MeMeA54994.2022.9856488](https://doi.org/10.1109/MeMeA54994.2022.9856488)  
 
 6. **Evaluation of Pulse Contour Markers using an A-Mode Ultrasound: Association with Carotid Stiffness Markers and Ageing**  
    Manoj, R., **Raj, K. V.**, Nabeel, P. M., Sivaprakasam, M., & Joseph, J. EMBC 44, 4010–4013 (2022), [doi.org/10.1109/EMBC48229.2022.9871405](https://doi.org/10.1109/EMBC48229.2022.9871405)  
