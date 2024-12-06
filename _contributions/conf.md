@@ -9,7 +9,7 @@ toc: true
 toc_label: "Contents"
 ---
 
-# Peer Reviewed Conference Proceedings
+# Conference Proceedings (Peer Reviewed)
 
 ---
 ## 2023
