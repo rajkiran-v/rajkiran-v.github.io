@@ -20,8 +20,8 @@ toc_label: "Contents"
 2. [**Effect of Fiduciary Point Choice on Pulse Wave Velocity-based Cuffless Pulse Pressure Estimation: Ex-vivo Study**](https://doi.org/10.1109/MeMeA57477.2023.10171935)  
    **Raj, K. V.**, Manoj, R., Ponkalaivani, S., Nabeel, P. M., & Joseph, J. (2023). *2023 IEEE International Symposium on Medical Measurements and Applications (MeMeA)*, 1–6.
 
-3. [**Evaluation of Pulse Wave Velocity Measurement Accuracy in a Novel In-Vitro System: A Preliminary Study**](https://doi.org/10.1109/MeMeA57477.2023.10171921)  
-   **Raj, K. V.**, Sudarsan, N., & Joseph, J. (2023). *2023 IEEE International Symposium on Medical Measurements and Applications (MeMeA)*, 1–6.
+3. [**A Photoplethysmograph-Based Device for Carotid Femoral Pulse Wave Velocity Measurement: Inter and Intraoperator Study**](https://doi.org/10.1109/MeMeA57477.2023.10171895)  
+   Ishwarya, S., Shankar, M., **Raj, K. V.**, Nabeel, P. M., & Joseph, J. (2023). *2023 IEEE International Symposium on Medical Measurements and Applications (MeMeA)*, 1–6.
 
 4. [**Plethysmograph-Based Self-Assessment Device for Carotid-Femoral Pulse Wave Velocity Measurement: A Pilot Usability Study**](https://doi.org/10.1109/EMBC40787.2023.10340457)  
    Ishwarya, S., **Raj, K. V.**, Nabeel, P. M., & Joseph, J. (2023). *2023 45th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC)*, 1–4.
@@ -53,8 +53,8 @@ toc_label: "Contents"
 13. [**A Pilot Observational Cohort Study to Investigate the Effect of Valsalva Maneuver on Internal Jugular Venous Diameter**](https://doi.org/10.1109/EMBC40787.2023.10340601)  
     George, N. R., **Raj, K. V.**, Nabeel, P. M., Sivaprakasam, M., & Joseph, J. (2023). *2023 45th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC)*, 1–4.
 
-14. [**Development of a Novel Model for Estimating the Vascular Shear Stress: An Ex-vivo Study**](https://doi.org/10.1109/MeMeA57477.2023.10171910)  
-    Sudarsan, N., **Raj, K. V.**, Sivaprakasam, M., & Joseph, J. (2023). *2023 IEEE International Symposium on Medical Measurements and Applications (MeMeA)*, 1–6.
+14. [**Assessment of Endothelial Reactivity using Brachial Pulse Wave Velocity Response to Shear**](https://doi.org/10.1109/MeMeA57477.2023.10171899)  
+   Sudarsan, N., Manoj, R., **Raj, K. V.**, Nabeel, P. M., Chandran, D. S., & Joseph, J. (2023). *2023 IEEE International Symposium on Medical Measurements and Applications (MeMeA)*, 1–6.
 
 
 ---
