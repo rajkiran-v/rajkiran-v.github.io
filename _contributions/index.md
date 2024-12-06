@@ -36,7 +36,7 @@ I can never forget my first introduction to the beauty of scientific writing. I 
 
 My best times during my PhD were always accompanied by a cup of coffee, a writing partner, late-night sessions, and the sound of keys clicking away as the paper progressed toward completion. **I now take pleasure in sharing the insights** and nuances I’ve gathered with budding writers, offering guidance on effective articulation techniques for their journals, theses, and reports.
 
-<img src="{{ "/assets/images/Contributions-img1.jpg" | absolute_url }}" width="70%" style="margin-right: 20px;" align="left"> <font size="10">The best reward to date has been the review comments for my first journal article (submitted to Computer Methods and Programs in Biomedicine), which I coincidentally received on my birthday.</font>
+<img src="{{ "/assets/images/Contributions-img1.jpg" | absolute_url }}" width="70%" style="margin-right: 20px;" align="left"> <font size="10px">The best reward to date has been the review comments for my first journal article (submitted to Computer Methods and Programs in Biomedicine), which I coincidentally received on my birthday.</font>
 
 
 
