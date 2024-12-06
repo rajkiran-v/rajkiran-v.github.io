@@ -53,7 +53,7 @@ toc_label: "Contents"
 1. [**Automated measurement of compression-decompression in arterial diameter and wall thickness by image-free ultrasound**](https://doi.org/10.1016/j.cmpb.2020.105557)  
    **Raj, K. V.**, Joseph, J., Nabeel, P. M., & Sivaprakasam, M. (2020). *Computer Methods and Programs in Biomedicine, 194,* 1–12.  
 
-2. [**ARTSENS® Pen — portable easy-to-use device for carotid stiffness measurement: technology validation and clinical-utility assessment**](https://iopscience.iop.org/article/10.1088/2057-1976/ab74ff)  
+2. [**ARTSENS® Pen — portable easy-to-use device for carotid stiffness measurement: technology validation and clinical-utility assessment**](https://iopscience.iop.org/article/10.1088/2057-1976/ab74ff)
    Joseph, J., **Raj, K. V.**, Nabeel, P. M., Shah, M. I., Bhaskar, A., Ganesh, C., & Seshadri, S. (2020). *Biomedical Physics & Engineering Express, 6*(2), 1–12.  
 
 3. [**Local pulse wave velocity: theory, methods, advancements, and clinical applications**](https://doi.org/10.1109/RBME.2019.2931587)  
