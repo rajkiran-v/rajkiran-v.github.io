@@ -12,6 +12,37 @@ toc_label: "Contents"
 # Conference Proceedings (Peer Reviewed)
 
 ---
+## 2024
+
+1. [**Acoustic Plethysmography for Aortic Pulse Wave Velocity Measurement: In-Vitro and In-Vivo Feasibility Study**](https://doi.org/10.1109/MeMeA60663.2024.10596728)  
+   Ishwarya, S., **Raj, K. V.**, Manoj, R., Nabeel, P. M., & Joseph, J. (2024). *2024 IEEE International Symposium on Medical Measurements and Applications (MeMeA)*, 1–5.
+
+2. [**Estimating Left Ventricular Contractility Through Carotid Artery Distension: A Portable Device Utilizing A-Mode Ultrasound and Surrogate Marker Analysis**](https://doi.org/10.1109/MeMeA60663.2024.10596863)  
+   Jaganathan, G., Manoj, R., **Raj, K. V.**, Nabeel, P. M., & Joseph, J. (2024). *2024 IEEE International Symposium on Medical Measurements and Applications (MeMeA)*, 1–6.
+
+3. [**Assessment of Local Venous Pulse Wave Velocity Using Single-Site Methods- A Pilot Study**](https://doi.org/10.1109/MeMeA60663.2024.10596851)  
+   George, N. R., Manoj, R., **Raj, K. V.**, Nabeel, P. M., Sivaprakasam, M., & Joseph, J. (2024). *2024 IEEE International Symposium on Medical Measurements and Applications (MeMeA)*, 1–6.
+
+4. [**Measurement of Inter and Intra-cycle Variations in Local Pulse Wave Velocity from Forward Travelling Pulse Waves**](https://doi.org/10.1109/MeMeA60663.2024.10596914)  
+   Manoj, R., **Raj, K. V.**, Nabeel, P. M., Sivaprakasam, M., & Joseph, J. (2024). *2024 IEEE International Symposium on Medical Measurements and Applications (MeMeA)*, 1–6.
+
+5. [**a-STEP: Oscillometry-Augmented Auscultation Method for Improved Blood Pressure Measurement**](https://doi.org/10.1109/MeMeA60663.2024.10596731)  
+   Krishna, A. R., **Raj, K. V.**, Nabeel, P. M., & Joseph, J. (2024). *2024 IEEE International Symposium on Medical Measurements and Applications (MeMeA)*, 1–6.
+
+6. [**Time Warping Approach to Overcome Motion Artifact's Influence on Automated Arterial Wall Identification: Proof-of-Concept**](https://doi.org/10.1109/MeMeA60663.2024.10596872)  
+   **Raj, K. V.**, Jeyaraman, S., Nabeel, P. M., & Joseph, J. (2024). *2024 IEEE International Symposium on Medical Measurements and Applications (MeMeA)*, 1–6.
+
+7. [**Bilateral Carotid Pulse Wave Velocity: A Proof of Concept**](https://doi.org/10.1109/MeMeA60663.2024.10596721)  
+   Ishwarya, S., **Raj, K. V.**, Manoj, R., Nabeel, P. M., & Joseph, J. (2024). *2024 IEEE International Symposium on Medical Measurements and Applications (MeMeA)*, 1–6.
+
+8. [**Impact of Physical (In)Activity on Carotid-Femoral PWV and Central Blood Pressure in Young and Middle-Aged Adults: A Pilot Study using ARTSENS Plus**](https://doi.org/10.1109/MeMeA60663.2024.10596707)  
+   Jaganathan, G., Manoj, R., **Raj, K. V.**, Nabeel, P. M., & Joseph, J. (2024). *2024 IEEE International Symposium on Medical Measurements and Applications (MeMeA)*, 1–6.
+
+9. [**Wearable Accelerometer System for Jugular Venous Pulse Quantification: A Pilot Study**](https://doi.org/10.1109/MeMeA60663.2024.10596831)  
+   George, N. R., et al. (2024). *2024 IEEE International Symposium on Medical Measurements and Applications (MeMeA)*, 1–5.
+
+
+---
 ## 2023
 
 1. [**Repeatability and Reproducibility of Flow Mediated Dilation Measured using ARTSENS**](https://doi.org/10.1109/MeMeA57477.2023.10171953)  
