@@ -42,6 +42,20 @@ related publications can be found in [my resume][1]. There are also links to
 documents at the top of each page, which offer more depth. If you're curious
 about technical details I've glossed over, feel free to [contact me][2].
 
+Automated vessel tracking
+Geometric measurements 
+Realtime Local PWV
+Calibration-free Central BP
+Vascular Ageing Markers
+Endothelial Dysfunction
+
+ARTSENS Plus Gen1
+ARTSENS Plus Gen2
+Neo: Edge Platform
+VAAS: Bot
+Vessel Vision
+
+
 
 <div style="margin-bottom:1cm" align="center"><font size="55">Selected Projects</font></div>
 
