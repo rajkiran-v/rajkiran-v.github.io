@@ -38,6 +38,9 @@ My best times during my PhD were always accompanied by a cup of coffee, a writin
 
 <img src="{{ "/assets/images/Contributions-img1.jpg" | absolute_url }}" width="70%" style="margin-right: 20px;" align="left"> The best reward so far was receiving review comments for **my first journal article ([CMBP](https://doi.org/10.1016/j.cmpb.2020.105557)) on my b'day**.
 
+---
+
+
 
 
 <div style="margin-bottom:1cm" align="center"><font size="55">Selected Projects</font></div>
