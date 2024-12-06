@@ -53,8 +53,10 @@ contributions:
 
   - title: "Patents"
     children:
+      - title: "Filed"
+        url: /contributions/IPfiled/
       - title: "Granted"
-        url: /contributions/Contr-2/
+        url: /contributions/IPgrant/
 
 # # sidebar for portfolio
 # portfolio:
