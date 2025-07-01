@@ -15,6 +15,14 @@ toc_depth: 1
 [**Download Full Thesis PDF**](assets/docs/thesis.pdf) 
 
 ---
+*Snapshot of the Scientific Contribution:*
+
+<img src="{{ "/assets/images/thesis-img5.jpg" | absolute_url }}" width="100%" style="margin-right: 20px;" align="center">
+
+
+*Graphical Abstract of Research Work:*
+
+<img src="{{ "/assets/images/thesis-img4.jpg" | absolute_url }}" width="100%" style="margin-right: 20px;" align="center">
 
 # Short Abstract
 
@@ -30,14 +38,6 @@ This device has demonstrated several **clear advantages**, including:
 4. **Reducing dependence on the operator**, ensuring more consistent results.  
 5. **Allowing multiple markers to be examined on a single device**, streamlining vascular health assessment.
 
-*Snapshot of the Scientific Contribution:*
-
-<img src="{{ "/assets/images/thesis-img5.jpg" | absolute_url }}" width="100%" style="margin-right: 20px;" align="center">
-
-
-*Graphical Abstract of Research Work:*
-
-<img src="{{ "/assets/images/thesis-img4.jpg" | absolute_url }}" width="100%" style="margin-right: 20px;" align="center">
 
 ---
 
