@@ -9,9 +9,18 @@ toc: true
 toc_label: "Contents"
 ---
 
-# Patents
+# In love with art of "Scientific Communication"
 
-My passion lies in **transforming healthcare accessibility** by building affordable solutions and advocating for **preventive and primordial care**. This commitment is underscored by **over 30 patents filed**, pertaining to affordable ultrasound technologies powered by intelligent algorithms. These technologies are designed to address the gaps in tackling the cardiovascular disease burden, which is leading cause of mortality and morbidity worldwide.
+I can never forget my first introduction to the beauty of scientific writing. I had submitted a half-cooked, four-page conference paper, thinking it was a masterpiece, until my professor corrected and reshaped it into a form I could barely recognize. I was particularly amazed at how the results and discussion sections were revised—I had completely skipped the latter, ignorant of its necessity. **Ever since, I have fallen in love with the art of scientific communication**. With each new article, I would use wonderfully written papers as benchmarks and sources of inspiration, striving to improve compared to my earlier works.
 
-A list of my patents (both filed and granted) is [**HERE**](https://www.linkedin.com/in/dr-raj-kiran-v-25a6b0288/details/patents/)
+My best times during my PhD were always accompanied by a cup of coffee, a writing partner, late-night sessions, and the sound of keys clicking away as the paper progressed toward completion.
 
+<img src="{{ "/assets/images/Contributions-img1.jpg" | absolute_url }}" width="70%" style="margin-right: 20px;" align="left"> The best reward so far was receiving review comments for **my first journal article ([CMBP](https://doi.org/10.1016/j.cmpb.2020.105557)) on my b'day**.  
+<br>
+<br>
+ **I now take pleasure in sharing the insights** and nuances I’ve gathered with budding writers, offering guidance on effective articulation techniques for their journals, theses, and reports.
+ 
+
+<div style="margin-bottom:1cm" align="center"><font size="55">Selected Articles</font></div>
+
+{% include feature_row %}
