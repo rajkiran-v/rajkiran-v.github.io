@@ -30,7 +30,13 @@ feature_row:
     btn_class: "btn--primary"
 ---
 
-# In love with art of "Scientific Communication
+### Publications
+
+A chronological list of my peer-reviewed publications in journals and international conferences. These works reflect my ongoing interests in [e.g., biomedical instrumentation, vascular health, signal processing, and AI], and are products of close collaboration with clinicians, engineers, and research teams.
+
+[Optionally: “Click on each title for full-text access or summaries.”]
+
+# In love with art of "Scientific Communication"
 
 I can never forget my first introduction to the beauty of scientific writing. I had submitted a half-cooked, four-page conference paper, thinking it was a masterpiece, until my professor corrected and reshaped it into a form I could barely recognize. I was particularly amazed at how the results and discussion sections were revised—I had completely skipped the latter, ignorant of its necessity. **Ever since, I have fallen in love with the art of scientific communication**. With each new article, I would use wonderfully written papers as benchmarks and sources of inspiration, striving to improve compared to my earlier works.
 
