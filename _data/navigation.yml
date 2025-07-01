@@ -46,10 +46,13 @@ portfolio:
 contributions:
   - title: "Publications"
     children:
+      - title: "My Writing Journey"
+        url: /contributions/wj/
       - title: "Journals (13)"
         url: /contributions/jrnl/
       - title: "Conferences (70)"
         url: /contributions/conf/
+
 
   - title: "Patents"
     children:
