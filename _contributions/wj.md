@@ -11,7 +11,9 @@ toc_label: "Contents"
 
 # In love with art of "Scientific Communication"
 
-I can never forget my first introduction to the beauty of scientific writing. I had submitted a half-cooked, four-page conference paper, thinking it was a masterpiece, until my professor corrected and reshaped it into a form I could barely recognize. I was particularly amazed at how the results and discussion sections were revised—I had completely skipped the latter, ignorant of its necessity. **Ever since, I have fallen in love with the art of scientific communication**. With each new article, I would use wonderfully written papers as benchmarks and sources of inspiration, striving to improve compared to my earlier works.
+Over the years, I’ve grown to deeply value the craft of scientific writing — not just as a means of dissemination, but as a form of expression and discipline in itself.
+
+My journey began humbly. I still remember my first submission: a four-page draft I considered “done” until my professor restructured it so thoroughly that it barely resembled my original. That experience shaped my approach to writing forever. Since then, I've strived to grow with each new manuscript, inspired by well-crafted papers and long nights of thoughtful revisions.
 
 My best times during my PhD were always accompanied by a cup of coffee, a writing partner, late-night sessions, and the sound of keys clicking away as the paper progressed toward completion.
 
