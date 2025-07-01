@@ -21,6 +21,3 @@ My best times during my PhD were always accompanied by a cup of coffee, a writin
  **I now take pleasure in sharing the insights** and nuances I’ve gathered with budding writers, offering guidance on effective articulation techniques for their journals, theses, and reports.
  
 
-<div style="margin-bottom:1cm" align="center"><font size="55">Selected Articles</font></div>
-
-{% include feature_row %}
