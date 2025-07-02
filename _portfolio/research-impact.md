@@ -2,18 +2,10 @@
 header:
   overlay_image: /assets/images/research/header.jpg
   caption: "Photo credit: [**Roman Mager**](https://www.unsplash.com)"
-permalink: /portfolio/networks/
+permalink: /portfolio/research-impact/
 date: 2018-01-01
 toc: true
 toc_label: "Contents"
----
-
----
-title: Impact & Recognition
-layout: single
-permalink: /research/impact/
-sidebar:
-  nav: "research"
 ---
 
 # Impact & Recognition
