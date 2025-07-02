@@ -34,7 +34,7 @@ feature_row:
 
 A chronological list of my peer-reviewed publications in journals and international conferences. These works reflect my ongoing interests in [e.g., biomedical instrumentation, vascular health, signal processing, and AI], and are products of close collaboration with clinicians, engineers, and research teams.
 
-My [**ResearchGate Profile**]([https://www.linkedin.com/in/dr-raj-kiran-v-25a6b0288/details/patents/](https://www.researchgate.net/profile/Raj-V?ev=hdr_xprf))
+My [**ResearchGate Profile**](https://www.researchgate.net/profile/Raj-V?ev=hdr_xprf)
 
 
 
