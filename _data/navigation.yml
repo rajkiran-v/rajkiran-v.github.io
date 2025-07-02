@@ -20,8 +20,8 @@ portfolio:
     children:
       - title: "Focus Areas"
         url: /portfolio/research-areas/
-      - title: "Signal Processing"
-        url: /portfolio/signal-processing/
+      - title: "Impact & Recognition"
+        url: /portfolio/research-impact/
 
   - title: "Projects"
     children:
