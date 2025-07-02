@@ -18,8 +18,8 @@ main:
 portfolio:
   - title: "Research Highlights"
     children:
-      - title: "Vascular Health"
-        url: /portfolio/vascular-health/
+      - title: "Focus Areas"
+        url: /portfolio/research-areas/
       - title: "Signal Processing"
         url: /portfolio/signal-processing/
 
