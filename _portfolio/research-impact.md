@@ -17,28 +17,28 @@ header:
 
 ## 🏥 Clinical Adoption & Validations
 
-{% include feature_row id="clinical" %}
+{% include feature_row id="feature_row_clinical" %}
 
 ---
 
 ## 👥 Public & Community Impact
 
-{% include feature_row id="community" %}
+{% include feature_row id="feature_row_community" %}
 
 ---
 
 ## 📰 Media Coverage
 
-{% include feature_row id="media" %}
+{% include feature_row id="feature_row_media" %}
 
 ---
 
 ## 🎤 Invited Talks
 
-{% include feature_row id="talks" %}
+{% include feature_row id="feature_row_talks" %}
 
 ---
 
 ## 🏆 Awards & Recognitions
 
-{% include feature_row id="awards" %}
+{% include feature_row id="feature_row_awards" %}
