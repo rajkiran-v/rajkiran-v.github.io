@@ -30,16 +30,17 @@ With a strong emphasis on accessibility and scalability, my research has activel
 
 We are also contributing to multi-center vascular phenotyping studies to understand ethnic and lifestyle-driven vascular variability in the Indian population. Targeted efforts include the development of low-cost, non-invasive BP and stiffness monitors for pregnant women, with the goal of improving maternal cardiovascular health. In parallel, work is ongoing to develop home-based vascular monitoring tools, enabling individuals to track the impact of lifestyle interventions on their arterial health — making preventive cardiovascular care both actionable and personal.
 
-{: .notice--info}
+<div class="notice--info">
 #### 🔍 Highlights
-{: .notice--info}
+
 - **Community Screening**: Conducted large-scale cardiovascular screenings in Kerala and rural Tamil Nadu using portable ARTSENS® devices.  
 - **Lifestyle & NCDs**: Studied the impact of lifestyle on early arterial changes in controlled groups to inform behavioral interventions.  
 - **Population Studies**: Enabled vascular phenotyping in Indian cohorts through multi-center studies focused on age, sex, and lifestyle variation.  
 - **Maternal Health**: Designed low-cost BP and stiffness monitors for early cardiovascular monitoring in pregnant populations.  
 - **Home Monitoring**: Building affordable home-use arterial health trackers to support widespread adoption of preventive lifestyle changes.
-{: .notice--info}
+
 These initiatives are part of a broader goal to democratize vascular diagnostics and empower underserved populations with early, meaningful insights into their cardiovascular health — well before symptoms emerge.
+</div>
 
 ---
 
