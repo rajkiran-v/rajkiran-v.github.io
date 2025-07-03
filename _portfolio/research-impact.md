@@ -62,12 +62,29 @@ These initiatives are part of a broader goal to democratize vascular diagnostics
 
 ---
 
-### 🏅 Awards & Recognitions
+### 🏆 Awards & Recognitions
 
-- 🏆 **Best Poster**, ARTERY-20 Conference (2020)  
-- 🧪 **Best Interdisciplinary PhD Thesis**, IIT Madras (2023)  
-- 🇮🇳 **Shortlisted for IInvenTiv & Viksit Bharat** showcases  
-- 🌍 **Winner**, Loudoun Innovation Challenge (Life Sciences)
+<div class="notice--info">
+
+**🏅 Best Poster Award – ARTERY 2020**  
+Awarded for the paper titled: *“Measurement of pressure-dependent intra-beat changes in carotid pulse wave velocity using image-free fast ultrasound”*, presented at the ARTERY-20 Conference.
+
+---
+
+**🎓 Best PhD Thesis Award – IIT Madras (2023)**  
+Recipient of the **Dr. M. Mukunda Rao Endowment Prize** for the Best Interdisciplinary PhD Thesis, awarded by the Indian Institute of Technology Madras.
+
+---
+
+**🇮🇳 National Recognition – InvenTiv & Viksit Bharat**  
+ARTSENS® technology shortlisted for presentation at **nationwide R&D expos**, highlighting its relevance as a frugal innovation aligned with the *Make in India* and *Digital India* missions.
+
+---
+
+**🌍 Innovation Challenge Winner – Loudoun County, USA**  
+ARTSENS® Plus named **Winner of the Loudoun Innovation Challenge (Life Sciences Category)**, recognizing its impact as a scalable, novel vascular diagnostic tool.
+
+</div>
 
 ---
 
