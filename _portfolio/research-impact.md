@@ -30,7 +30,8 @@ With a strong emphasis on accessibility and scalability, my research has activel
 
 We are also contributing to multi-center vascular phenotyping studies to understand ethnic and lifestyle-driven vascular variability in the Indian population. Targeted efforts include the development of low-cost, non-invasive BP and stiffness monitors for pregnant women, with the goal of improving maternal cardiovascular health. In parallel, work is ongoing to develop home-based vascular monitoring tools, enabling individuals to track the impact of lifestyle interventions on their arterial health — making preventive cardiovascular care both actionable and personal.
 
-{: .notice--info}
+---
+
 #### 🔍 Highlights
 
 - **Community Screening**: Conducted large-scale cardiovascular screenings in Kerala and rural Tamil Nadu using portable ARTSENS® devices.  
@@ -40,7 +41,6 @@ We are also contributing to multi-center vascular phenotyping studies to underst
 - **Home Monitoring**: Building affordable home-use arterial health trackers to support widespread adoption of preventive lifestyle changes.
 
 These initiatives are part of a broader goal to democratize vascular diagnostics and empower underserved populations with early, meaningful insights into their cardiovascular health — well before symptoms emerge.
-
 
 ---
 
@@ -64,8 +64,6 @@ These initiatives are part of a broader goal to democratize vascular diagnostics
 
 ### 🏆 Awards & Recognitions
 
-<div class="notice--info">
-
 **🏅 Best Poster Award – ARTERY 2020**  
 Awarded for the paper titled: *“Measurement of pressure-dependent intra-beat changes in carotid pulse wave velocity using image-free fast ultrasound”*, presented at the ARTERY-20 Conference.
 
@@ -83,8 +81,6 @@ ARTSENS® technology shortlisted for presentation at **nationwide R&D expos**, h
 
 **🌍 Innovation Challenge Winner – Loudoun County, USA**  
 ARTSENS® Plus named **Winner of the Loudoun Innovation Challenge (Life Sciences Category)**, recognizing its impact as a scalable, novel vascular diagnostic tool.
-
-</div>
 
 ---
 
