@@ -20,14 +20,7 @@ toc_label: "Contents"
 
 ### 🏥 Clinical Adoption & Validations
 
-- Validated **ARTSENS® Pen** at VHS Hospital, Chennai for carotid stiffness assessment.
-- Multi-center accuracy and repeatability studies for **ARTSENS® Plus** at AIIMS New Delhi and IIT Madras.
-- Conducted **LBNP studies** for calibration-free central BP measurement under dynamic conditions.
-- Participated in studies on sedentary behavior and arterial stiffness at **Radboud University Medical Centre**.
-- Evaluated **baroreflex sensitivity post-COVID** and its association with carotid stiffness (AIIMS).
-- Pulse contour studies in **porcine models** at Palamur Biosciences, Hyderabad.
-- Ongoing study on **Yoga and cardiovascular health** at SDM, Dharwad.
-
+The work that I had been engaged in was always validated across a range of clinical and physiological settings, demonstrating both robustness and translational potential. I have been part of several clinical studies, conducting and monitoring them, with data collected over 6000 subjects. At the Voluntary Health Services (VHS) Hospital, Chennai, the ARTSENS® Pen was clinically tested for its ability to assess carotid arterial stiffness, confirming its ease of use and reliability in point-of-care settings. In multicenter evaluations at the All India Institute of Medical Sciences (AIIMS), New Delhi and the Indian Institute of Technology Madras (IIT Madras), ARTSENS® Plus was studied for accuracy and repeatability, validating its performance in both expert-led and minimally trained use cases. At IIT Madras, a novel method for central blood pressure estimation was validated under physiologically dynamic conditions using Lower Body Negative Pressure (LBNP) protocols. In collaboration with the Radboud University Medical Center, The Netherlands, ARTSENS® was used in lifestyle-based vascular studies, examining the impact of sedentary behavior on arterial stiffness. At AIIMS, the technology supported investigations into baroreflex sensitivity impairments in COVID-19 survivors, linking vascular stiffness with autonomic recovery. Further preclinical validation was carried out at Palamur Biosciences, Hyderabad, using an anesthetized porcine model to study vascular pulse contour metrics under controlled blood pressure conditions. A prospective study at SDM College of Medical Sciences & Hospital, Dharwad, Karnataka, is currently exploring the role of yoga in cardiovascular modulation, where ARTSENS is used to noninvasively track vascular health over time.
 ---
 
 ### 👥 Public & Community Impact
