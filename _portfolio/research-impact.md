@@ -25,12 +25,23 @@ The work that I had been engaged in at HTIC - IIT Madras, was always validated a
 
 ### 👥 Public & Community Impact
 
-- Large-scale **screenings in Kerala** and rural Tamil Nadu.
-- Vascular profiling around Vellore as part of **community health initiatives**.
-- Using ARTSENS as part of **early intervention frameworks** for NCD control.
-- Multi-center **vascular phenotyping of Indian populations**.
-- Development of **BP and stiffness monitors for pregnant populations**.
-- Building **home-use vascular monitoring devices** to support lifestyle interventions.
+With a strong emphasis on accessibility and scalability, my research has actively contributed to public health interventions, rural outreach, and population-level cardiovascular risk tracking. Using ARTSENS® technologies, we have conducted high-throughput vascular health screenings in Kerala and Tamil Nadu, enabling community-level detection of early vascular changes. In rural regions around Vellore, we profiled blood pressure and arterial stiffness to better understand the spread and nature of non-communicable diseases (NCDs). These efforts are helping establish early-intervention pathways where objective vascular measurements, rather than risk scores alone, guide prevention strategies.
+
+We are also contributing to multi-center vascular phenotyping studies to understand ethnic and lifestyle-driven vascular variability in the Indian population. Targeted efforts include the development of low-cost, non-invasive BP and stiffness monitors for pregnant women, with the goal of improving maternal cardiovascular health. In parallel, work is ongoing to develop home-based vascular monitoring tools, enabling individuals to track the impact of lifestyle interventions on their arterial health — making preventive cardiovascular care both actionable and personal.
+
+<div class="highlights-box">
+
+#### 🔍 Highlights
+
+- **Community Screening**: Conducted large-scale cardiovascular screenings in Kerala and rural Tamil Nadu using portable ARTSENS® devices.  
+- **Lifestyle & NCDs**: Studied the impact of lifestyle on early arterial changes in controlled groups to inform behavioral interventions.  
+- **Population Studies**: Enabled vascular phenotyping in Indian cohorts through multi-center studies focused on age, sex, and lifestyle variation.  
+- **Maternal Health**: Designed low-cost BP and stiffness monitors for early cardiovascular monitoring in pregnant populations.  
+- **Home Monitoring**: Building affordable home-use arterial health trackers to support widespread adoption of preventive lifestyle changes.
+
+These initiatives are part of a broader goal to democratize vascular diagnostics and empower underserved populations with early, meaningful insights into their cardiovascular health — well before symptoms emerge.
+
+</div>
 
 ---
 
