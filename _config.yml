@@ -120,3 +120,8 @@ collections:
     output: true
   contributions:
     output: true
+  values:
+    toc: true
+    toc_sticky: true
+    toc_label: "Contents"
+    toc_depth: 1
