@@ -4,28 +4,20 @@
 
 .page__footer {
   @include clearfix;
-  float: left;
-  margin-left: 0;
-  margin-right: 0;
+  float: inline-start;
+  margin-inline: 0;
   width: 100%;
-  clear: both;
-  /* sticky footer fix start */
-  position: absolute;
-  bottom: 0;
-  height: auto;
-  /* sticky footer fix end */
   margin-top: 3em;
   color: $muted-text-color;
   -webkit-animation: $intro-transition;
-          animation: $intro-transition;
+  animation: $intro-transition;
   -webkit-animation-delay: 0.45s;
-          animation-delay: 0.45s;
+  animation-delay: 0.45s;
   background-color: $footer-background-color;
 
   footer {
     @include clearfix;
-    margin-left: auto;
-    margin-right: auto;
+    margin-inline: auto;
     margin-top: 2em;
     max-width: 100%;
     padding: 0 1em 2em;
@@ -44,7 +36,10 @@
     }
   }
 
-  .fa {
+  .fas,
+  .fab,
+  .far,
+  .fal {
     color: $muted-text-color;
   }
 }
@@ -55,7 +50,6 @@
 }
 
 .page__footer-follow {
-
   ul {
     margin: 0;
     padding: 0;
@@ -71,13 +65,19 @@
     text-transform: uppercase;
   }
 
-  li + li:before {
+  li + li::before {
     content: "";
-    padding-right: 5px;
+    padding-inline-end: 5px;
   }
 
   a {
-    padding-right: 10px;
+    padding-inline-end: 10px;
     font-weight: bold;
+  }
+
+  .social-icons {
+    a {
+      white-space: nowrap;
+    }
   }
 }

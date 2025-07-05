@@ -3,11 +3,13 @@
    ========================================================================== */
 
 table {
+  display: block;
   margin-bottom: 1em;
   width: 100%;
   font-family: $global-font-family;
   font-size: $type-size-6;
   border-collapse: collapse;
+  overflow-x: auto;
 
   & + table {
     margin-top: 1em;
@@ -22,7 +24,7 @@ thead {
 th {
   padding: 0.5em;
   font-weight: bold;
-  text-align: left;
+  text-align: start;
 }
 
 td {

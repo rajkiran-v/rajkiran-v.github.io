@@ -6,25 +6,26 @@
   position: relative;
   border-bottom: 1px solid $border-color;
   -webkit-animation: $intro-transition;
-          animation: $intro-transition;
+  animation: $intro-transition;
   -webkit-animation-delay: 0.15s;
-          animation-delay: 0.15s;
+  animation-delay: 0.15s;
   z-index: 20;
 
   &__inner-wrap {
     @include clearfix;
-    margin-left: auto;
-    margin-right: auto;
+    margin-inline: auto;
     padding: 1em;
     max-width: 100%;
     display: -webkit-box;
+    display: -ms-flexbox;
     display: flex;
     -webkit-box-pack: justify;
+    -ms-flex-pack: justify;
     justify-content: space-between;
     font-family: $sans-serif-narrow;
 
     @include breakpoint($x-large) {
-      max-width: $x-large;
+      max-width: $max-width;
     }
 
     nav {
@@ -37,29 +38,36 @@
   }
 }
 
+.site-logo img {
+  max-height: 2rem;
+}
+
 .site-title {
   display: -webkit-box;
+  display: -ms-flexbox;
   display: flex;
-  padding: 0.5rem 0;
-  align-self: stretch;
-  -webkit-box-align: center;
-        align-items: center;
+  -ms-flex-item-align: center;
+  align-self: center;
   font-weight: bold;
-  z-index: 20;
+  // z-index: 20;
+}
+
+.site-subtitle {
+  display: block;
+  font-size: $type-size-8;
 }
 
 .masthead__menu {
-  float: left;
-  margin-left: 0;
-  margin-right: 0;
+  float: inline-start;
+  margin-inline: 0;
   width: 100%;
   clear: both;
 
   .site-nav {
-    margin-left: 0;
+    margin-inline-start: 0;
 
     @include breakpoint($small) {
-      float: right;
+      float: inline-end;
     }
   }
 
@@ -77,7 +85,7 @@
   white-space: nowrap;
 
   &--lg {
-    padding-right: 2em;
+    padding-inline-end: 2em;
     font-weight: 700;
   }
 }
