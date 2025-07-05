@@ -14,7 +14,7 @@ A snapshot of the major themes shaping my research journey — from advancing fu
 
 ---
 
-### 🧠 1. **Early Vascular Aging (EVA) and Preventive Cardiovascular Health**
+### 1. **Early Vascular Aging (EVA) and Preventive Cardiovascular Health**
 
 **Focus**: Shifting cardiovascular care from reactive to preventive by identifying vascular aging before symptoms appear.
 
@@ -23,7 +23,7 @@ Early Vascular Aging (EVA) represents a paradigm shift in cardiovascular risk as
 
 ---
 
-### 🔬 2. **Multimodal Vascular Health Assessment**
+### 2. **Multimodal Cardiovascular Health Assessment**
 
 **Focus**: Integrating structural and functional arterial markers to holistically evaluate vascular burden.
 
@@ -41,7 +41,7 @@ A-mode ultrasound offers a scalable, cost-effective alternative to traditional i
 
 ---
 
-### 📈 4. **Advanced Signal Processing for Physiological Sensing**
+### 📈 4. **Advanced Signal Processing applications**
 
 **Focus**: Extracting clinically relevant information from raw sensor signals in real-time.
 
