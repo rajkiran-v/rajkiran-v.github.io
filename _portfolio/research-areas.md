@@ -8,9 +8,7 @@ toc: true
 toc_label: "Contents"
 ---
 
-# Research Areas of Interest
-
-A snapshot of the major themes shaping my research journey — from advancing fundamental tools for cardiovascular assessment to building clinically impactful, scalable technologies.
+Below is snapshot of the major themes of focus shaping my research.
 
 ---
 
