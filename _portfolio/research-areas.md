@@ -32,7 +32,7 @@ Cardiovascular risk is multifactorial and cannot be captured through isolated me
 
 ---
 
-### ⚙️ 3. **Affordable and Advanced Ultrasound Technologies**
+### 3. **Affordable and Advanced Ultrasound Technologies**
 
 **Focus**: Designing high-speed, affordable, and compact edge-systems for ultrasound-based vascular monitoring.
 
@@ -41,7 +41,7 @@ A-mode ultrasound offers a scalable, cost-effective alternative to traditional i
 
 ---
 
-### 📈 4. **Advanced Signal Processing applications**
+### 4. **Advanced Signal Processing applications**
 
 **Focus**: Extracting clinically relevant information from raw sensor signals in real-time.
 
@@ -50,7 +50,7 @@ I apply advanced signal processing to extract robust physiological features from
 
 ---
 
-### 🌐 5. **Translational MedTech for Primary and Preventive Care**
+### 5. **Translational MedTech for Primary and Preventive Care**
 
 **Focus**: Bridging engineering and clinical practice to develop scalable, user-friendly health technologies.
 
@@ -59,7 +59,7 @@ My work emphasizes the translation of research into real-world impact. Through c
 
 ---
 
-### 🤝 6. **Collaborative Research Ecosystems**
+### 6. **Collaborative Research Ecosystems**
 
 **Focus**: Accelerating innovation through interdisciplinary and multi-institutional partnerships.
 
