@@ -42,16 +42,20 @@ feature_row:
 
 These efforts have been acknowledged through select awards and recognitions that reflect both scientific contribution and translational impact.
 
-**Best Poster Award** 
+**Best Poster Award**
+
 {: .notice--info} ARTERY-20 Conference (2020): A globally pioneering work on the direct measurement of pressure-dependent intra-beat changes in pulse wave velocity using an custom developed ultrafast ultrasound.
 
-**Best PhD Thesis Award**  
+**Best PhD Thesis Award**
+
 {: .notice--info} Dr. M. Mukunda Rao Endowment Prize, IIT Madras (2023) Awarded for best interdisciplinary research work on indigenous ultrasound system and methods for vascular ageing assessment, at the doctoral level. Graduated with 5+ high-impact Journals, 20+ Conference proceedings, 30+ filed patents (5 granted). 
 
-**National Recognition** – *InvenTiv & Viksit Bharat* R&D Showcase  
+**National Recognition**
+
 {: .notice--info} ARTSENS® was shortlisted one for the top 5 inventions for showcasing in several R&D fairs - InvenTiv 2023, G20 Summit 2024, and Viksit Bharat 2025, as a frugal and scalable innovation under the *Make in India* and *Digital India* missions.
 
-**Innovation Challenge Winner**  
+**Innovation Challenge Winner**
+
 {: .notice--info} VascRisk, the entity commercializing the ARTSENS® technology, has been named the winner of the Loudoun Innovation Challenge (Loudoun County, USA) in the Life Sciences category! This recognition is a testament to the team's commitment to advancing cardiovascular health through ARTSENS — a non-invasive, AI-powered solution for the early detection of heart disease.
 
 ---
