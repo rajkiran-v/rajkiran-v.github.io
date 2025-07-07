@@ -10,9 +10,9 @@ header:
 
 feature_row:
   - image_path: assets/images/ai_head.jpg
-    alt: "Clinics & Community"
-    title: "Clinics & Community"
-    excerpt: "Translational research validated in clinical and community settings for deployment and creating health impact."
+    alt: "Validation"
+    title: "Validation"
+    excerpt: "Translational research validation and impact for both clinical and community settings."
     url: "/portfolio/deskai/"
     btn_label: "Read More"
     btn_class: "btn--primary"	
@@ -62,6 +62,6 @@ Beyond formal accolades, the true impact of my research is reflected in its clin
 
 ---
 
-<div style="margin-bottom:1cm" align="center"><font size="35">Thought Leadership</font></div>
+<div style="margin-bottom:1cm" align="center"><font size="20">Thought Leadership</font></div>
 
 {% include feature_row %}
