@@ -10,8 +10,8 @@ header:
 
 feature_row:
   - image_path: assets/images/ai_head.jpg
-    alt: "Clinical & Community"
-    title: "Clinical & Community"
+    alt: "Clinics & Community"
+    title: "Clinics & Community"
     excerpt: "Translational research validated in clinical and community settings for deployment and creating health impact."
     url: "/portfolio/deskai/"
     btn_label: "Read More"
@@ -25,8 +25,8 @@ feature_row:
     btn_class: "btn--primary"	
   - image_path: /assets/images/social_network.jpg
     alt: "Mentorship"
-    title: "Anomaly Detection in Social Networks"
-    excerpt: "Anomaly detection in social network data, using the graph resistance."
+    title: "Mentorship"
+    excerpt: "Guiding the next generation of researchers and startups through hands-on mentorship in translational MedTech."
     url: "/portfolio/social-networks/"
     btn_label: "Read More"
     btn_class: "btn--primary"
@@ -70,6 +70,6 @@ Beyond formal accolades, the true impact of my research is reflected in its clin
 
 ---
 
-<div style="margin-bottom:1cm" align="center"><font size="55">Selected Projects</font></div>
+<div style="margin-bottom:1cm" align="center"><font size="55">Thought Leadership</font></div>
 
 {% include feature_row %}
