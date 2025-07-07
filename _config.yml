@@ -105,10 +105,10 @@ defaults:
       path: ""
       type: contributions
     values:
-      # toc: true
-      # toc_sticky: true
-      # toc_label: "Contents"
-      # toc_depth: 1
+      toc: true
+      toc_sticky: true
+      toc_label: "Contents"
+      toc_depth: 1
       author_profile: false
       excerpt: ""
       sidebar:
