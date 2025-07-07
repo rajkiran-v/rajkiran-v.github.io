@@ -62,6 +62,6 @@ Beyond formal accolades, the true impact of my research is reflected in its clin
 
 ---
 
-<div style="margin-bottom:1cm" align="center"><font size="55">Thought Leadership</font></div>
+<div style="margin-bottom:1cm" align="center"><font size="35">Thought Leadership</font></div>
 
 {% include feature_row %}
