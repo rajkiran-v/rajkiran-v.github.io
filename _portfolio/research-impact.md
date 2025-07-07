@@ -7,7 +7,6 @@ toc_label: "Contents"
 header:
   overlay_image: /assets/images/research/header.jpg
   caption: "Photo credit: [**Roman Mager**](https://www.unsplash.com)"
----
 
 feature_row:
   - image_path: assets/images/ai_head.jpg
@@ -31,6 +30,7 @@ feature_row:
     url: "/portfolio/social-networks/"
     btn_label: "Read More"
     btn_class: "btn--primary"
+    
 ---
 
 # Impact & Recognition
