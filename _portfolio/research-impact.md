@@ -42,7 +42,7 @@ feature_row:
 
 These efforts have been acknowledged through select awards and recognitions that reflect both scientific contribution and translational impact.
 
-- 🏅 **Best Poster Award** – ARTERY-20 Conference (2020)  
+🏅 **Best Poster Award** – ARTERY-20 Conference (2020)  
   _“Measurement of pressure-dependent intra-beat changes in carotid pulse wave velocity using image-free fast ultrasound.”_
 
 - 🎓 **Best PhD Thesis Award** – *Dr. M. Mukunda Rao Endowment Prize*, IIT Madras (2023)  
